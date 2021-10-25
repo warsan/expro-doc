@@ -106,7 +106,7 @@ if (condition) {
     <tfoot>
       <tr>
         <td>Тапки 1</td>
-        <td>Footer content 2</td>
+        <td>Тапки 2</td>
       </tr>
     </tfoot>
   </table>
