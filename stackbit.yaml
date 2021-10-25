@@ -182,7 +182,7 @@ models:
         required: true
       - type: number
         name: weight
-        label: Weight
+        label: Вес
         description: >-
           Порядок навигации по странице документации. Это значение игнорируется
           для страниц родительского раздела.
