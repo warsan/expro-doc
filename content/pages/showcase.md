@@ -22,7 +22,7 @@ sections:
       - title: Fjord
         title_url: 'https://themes.stackbit.com/demos/fjord/'
         image: images/8.jpg
-        content: A minimal blogging theme for Unibit
+        content: Минимальная тема для блогов Unibit
       - title: Ampersand
         title_url: 'https://themes.stackbit.com/demos/ampersandexto/'
         image: images/9.jpg
