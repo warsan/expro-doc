@@ -385,7 +385,7 @@ models:
             - action
       - type: string
         name: type
-        label: Object Type
+        label: Тип объекта
         description: Тип объекта
         const: section_content
         hidden: true
