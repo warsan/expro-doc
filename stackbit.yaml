@@ -153,10 +153,10 @@ models:
         name: root_docs_path
         label: Root Documentation URL Path
         description: >-
-          The URL path under which the documentation pages will be generated.
-          For example, value "/" will place all documentation pages at the site
-          root, while value "/docs" will place all documentation pages under the
-          "/docs" path.
+          Путь URL, по которому будут генерироваться страницы документации.
+          Например, значение "/" будет размещать все страницы документации в
+          корне сайта, в то время как значение "/docs" поместит все страницы
+          документации в папку "/docs". путь.
         default: /docs
         required: true
       - type: list
