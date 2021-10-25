@@ -14,7 +14,7 @@ sections:
       - title: Exto
         title_url: 'https://themes.stackbit.com/demos/exto/'
         image: images/6.jpg
-        content: A portfolio theme for Unibit
+        content: Тема портфолио для Unibit
       - title: Fresh
         title_url: 'https://themes.stackbit.com/demos/fresh/'
         image: images/7.jpg
