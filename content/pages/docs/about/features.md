@@ -95,7 +95,7 @@ a:hover {
 | type | Required | `enum` | Тип модели. Должен быть одним из - `page`, `config`, `data`, `object` |
 | label | Required | `string` | Ярлык модели |
 | description | | `string` | Описание модели. Используется некоторыми CMS. |
-| fields | | `list` of `objects` | List of Field Models |
+| fields | | `list` of `objects` | Список моделей месторождений |
 
 ## Начните использовать тему Libris
 
