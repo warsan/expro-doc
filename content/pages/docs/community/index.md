@@ -36,7 +36,7 @@ layout: docs
 
 Suspendisse hendrerit maximus metus in placerat. In ligula magna, efficitur sed ultrices non, iaculis ut ligula. Sed finibus efficitur cursus. Proin quis molestie purus. Vestibulum ut magna eget tortor tempor egestas eget eu orci. Integer porta cursus rutrum. Quisque porta suscipit sem, et tincidunt felis malesuada vel. 
 
-## Popular Discussion Forums
+## Популярные дискуссионные форумы
 
 Donec eget tellus magna. Duis eu metus sem. Donec nec ullamcorper dui. Phasellus turpis mauris, lacinia ac imperdiet eu, dapibus eu metus. Vestibulum porta lectus vel dui eleifend pretium. Nulla facilisi. Nam luctus quam at velit congue tincidunt. Ut tempus justo at urna varius commodo.
 
