@@ -55,7 +55,7 @@ layout: docs
 </div>
 ```
 
-### Live example
+### Живой пример
 
 <div class="important">
   <strong>Important:</strong> 
