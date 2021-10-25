@@ -72,7 +72,7 @@ Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, diam sit
 Блоки кода либо огораживаются `строками с тремя обратными знаками`, либо отступают на четыре пробела.
 
 ```
-<!-- Some example CSS code -->
+<!-- Некоторые примеры кода CSS -->
 body {
   color:red;
 }
