@@ -70,7 +70,7 @@ sections:
         style: primary
   - section_id: features-two-col
     type: section_grid
-    title: Sample Layouts
+    title: Образцы макетов
     subtitle: Необязательный подзаголовок раздела
     col_number: two
     grid_items:
