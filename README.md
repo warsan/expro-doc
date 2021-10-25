@@ -41,7 +41,7 @@ Stackbit выполнит для вас следующие действия
 
 [![](https://i3.ytimg.com/vi/zd9lGRLVDm4/hqdefault.jpg)](https://stackbit.link/project-readme-lead-video)
 
-Here's a few resources to get you started:
+Вот несколько ресурсов, которые помогут вам начать:
 
 - 📺 &nbsp; [Editing Content](https://stackbit.link/project-readme-editing-video)
 - 📺 &nbsp; [Adding, Reordering and Deleting Items](https://stackbit.link/project-readme-adding-video)
