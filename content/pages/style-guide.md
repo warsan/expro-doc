@@ -86,7 +86,7 @@ Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar
 Блоки кода либо огораживаются `строками с тремя обратными знаками`, либо отступают на четыре пробела.
 
 ```
-<!-- Some example CSS code -->
+<!-- Некоторые примеры кода CSS -->
 body {
   color:red;
 }
