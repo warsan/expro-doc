@@ -333,7 +333,7 @@ models:
     labelField: title
   section:
     type: object
-    label: Section
+    label: Раздел
     labelField: title
     fields:
       - type: string
