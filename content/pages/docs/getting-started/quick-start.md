@@ -94,7 +94,7 @@ if (condition) {
 if (condition) {
   код для выполнения, если условие истинно
 } else {
-  run some other code instead
+  запустите вместо этого другой код
 }
 ```
 
