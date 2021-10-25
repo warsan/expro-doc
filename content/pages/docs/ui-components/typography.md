@@ -67,7 +67,7 @@ Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, diam sit
 5. Nulla porta tempus sapien
 
 
-## Code Blocks
+## Блоки кода
 
 Blocks of code are either fenced by `lines with three back-ticks`, or are indented with four spaces.
 
