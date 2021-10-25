@@ -252,7 +252,7 @@ models:
       - type: boolean
         name: has_more_link
         label: Show read more link
-        description: Display the read more link in the post feed
+        description: Отображение ссылки "Читать дальше" в ленте сообщений
         default: true
       - type: string
         name: more_link_text
