@@ -26,7 +26,7 @@
 
 [Создать сайт](https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/libris-nextjs&utm_source=theme-readme&utm_medium=referral&utm_campaign=stackbit_themes) из этой темы с помощью Stackbit.
 
-Stackbit will execute following steps for you
+Stackbit выполнит для вас следующие действия
 
 - Create a new GitHub repository with the contents of this repository.
 - Create [Netlify](https://www.netlify.com) site connected to the GitHub repo
