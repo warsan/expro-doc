@@ -323,7 +323,7 @@ models:
         description: The image shown in the background of the single post header
       - type: string
         name: excerpt
-        label: Excerpt
+        label: Отрывок
         description: Выдержка из сообщения, отображаемая в ленте блога
       - type: model
         name: seo
