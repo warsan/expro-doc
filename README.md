@@ -1,7 +1,7 @@
 # ✨ Libris Nextjs Theme ✨
 
-This is Stackbit's "Libris" theme built with [Next.js](https://nextjs.org/) and
-powered by content stored in files.
+Это "Libris" Стэкбита. тема, построенная с использованием [Next.js](https://nextjs.org/) и
+на основе содержимого, хранящегося в файлах.
 
 Нажмите на кнопку ниже, чтобы создать новый сайт на основе этой темы с помощью Stackbit:
 
