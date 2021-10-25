@@ -114,7 +114,7 @@ models:
             - action_menu
   footer:
     type: object
-    label: Footer Configuration
+    label: Конфигурация подошвы
     labelField: content
     fields:
       - type: string
