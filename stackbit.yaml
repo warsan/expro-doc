@@ -169,7 +169,7 @@ models:
   docs:
     type: page
     urlPath: /docs/{slug}
-    label: Documentation Pages
+    label: Страницы документации
     layout: docs
     folder: docs
     fields:
