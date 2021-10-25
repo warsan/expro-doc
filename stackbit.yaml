@@ -55,7 +55,7 @@ models:
         description: Квадратный значок, представляющий ваш веб-сайт
       - type: enum
         name: palette
-        label: Color Palette
+        label: Цветовая палитра
         description: The color palette of the site
         options:
           - blue
