@@ -15,7 +15,7 @@ sections:
         title_url: 'https://themes.stackbit.com/demos/exto/'
         image: images/6.jpg
         content: Тема портфолио для Unibit
-      - title: Свежие
+      - title: Свежак
         title_url: 'https://themes.stackbit.com/demos/fresh/'
         image: images/7.jpg
         content: Личная тема для Unibit
