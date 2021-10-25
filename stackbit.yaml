@@ -304,7 +304,7 @@ models:
       - type: string
         name: subtitle
         label: Subtitle
-        description: The text shown just below the post title
+        description: Текст, отображаемый сразу под заголовком сообщения
       - type: date
         name: date
         label: Date
