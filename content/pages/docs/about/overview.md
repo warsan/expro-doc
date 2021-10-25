@@ -112,8 +112,8 @@ if (condition) {
 | Text  | Text  |
 
 <div class="note">
-  <strong>Note:</strong> 
-  Creating tables with hyphens and pipes can be time-consuming. To speed up the process, try using the <a href="http://www.tablesgenerator.com/markdown_tables" >Markdown Tables Generator</a>.
+  <strong>Примечание:</strong> 
+  Создание таблиц с дефисами и трубами может занять много времени. Чтобы ускорить процесс, попробуйте использовать <a href="http://www.tablesgenerator.com/markdown_tables" >Markdown Tables Generator</a>.
 </div>
 
 <hr>
