@@ -32,7 +32,7 @@ sections:
           - label: Посмотреть сообщения
             url: /blog
             style: link
-      - title: Style Guide
+      - title: Руководство по стилю
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
