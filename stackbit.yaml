@@ -251,7 +251,7 @@ models:
         description: The image shown in the background of the page header
       - type: boolean
         name: has_more_link
-        label: Show read more link
+        label: Показать ссылку Читать далее
         description: Отображение ссылки "Читать дальше" в ленте сообщений
         default: true
       - type: string
