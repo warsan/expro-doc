@@ -12,7 +12,7 @@ sections:
     col_number: three
   - section_id: cta
     type: section_cta
-    title: Название блока призыва к действию
+    title: Призыва к действию
     subtitle: Это необязательное описание для блока призыва к действию.
     actions:
       - label: Приступить к работе
