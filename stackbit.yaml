@@ -265,7 +265,7 @@ models:
     labelField: title
   page:
     type: page
-    label: Page
+    label: Страница
     layout: page
     exclude:
       - blog/**
