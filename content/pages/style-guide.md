@@ -129,7 +129,7 @@ window.$docsify = {
     </tbody>
     <tfoot>
       <tr>
-        <td>Footer content 1</td>
+        <td>Т 1</td>
         <td>Footer content 2</td>
       </tr>
     </tfoot>
