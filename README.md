@@ -78,8 +78,7 @@ Stackbit выполнит для вас следующие действия
 
     npm run build
 
-The exported site will be written to `out` folder. The contents of this folder 
-can be deployed by serverless deployment platform such as [Netlify](https://www.netlify.com).
+The exported site will be written to `out` folder. The contents of this folder can be deployed by serverless deployment platform such as [Netlify](https://www.netlify.com).
 You can start a local server serving the static files from the `out` folder, for
 example by installing and running `http-server`:
 
