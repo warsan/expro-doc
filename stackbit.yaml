@@ -184,8 +184,8 @@ models:
         name: weight
         label: Weight
         description: >-
-          The navigation order of the documentation page. This value is ignored
-          for parent section pages.
+          Порядок навигации по странице документации. Это значение игнорируется
+          для страниц родительского раздела.
       - type: string
         name: excerpt
         label: Excerpt
