@@ -118,7 +118,7 @@ if (condition) {
 
 <hr>
 
-## Start using Libris theme
+## Начните использовать тему Libris
 
 We’ve packed this theme with powerful features to help you have awesome documentation for your current or next project.
 
