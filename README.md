@@ -74,8 +74,7 @@ Stackbit выполнит для вас следующие действия
 
 ## Здание для производства 🏗
 
-To build a static site for production, or test locally how it works, run the
-following command:
+To build a static site for production, or test locally how it works, run the following command:
 
     npm run build
 
