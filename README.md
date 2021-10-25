@@ -64,7 +64,7 @@ Stackbit выполнит для вас следующие действия
 
        npm install
        
-1. Start the Next.js local development server:
+1. Запустите локальный сервер разработки Next.js:
 
         npm run develop
 
