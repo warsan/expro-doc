@@ -18,7 +18,7 @@ sections:
       - title: Свежие
         title_url: 'https://themes.stackbit.com/demos/fresh/'
         image: images/7.jpg
-        content: A personal theme for Unibit
+        content: Личная тема для Unibit
       - title: Fjord
         title_url: 'https://themes.stackbit.com/demos/fjord/'
         image: images/8.jpg
