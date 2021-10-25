@@ -25,7 +25,7 @@ seo:
 layout: docs
 ---
 
-This is an example of the FAQ page.
+This is an example of the FAQ page. 
 
 <div class="note">
   <strong>Note:</strong> 
