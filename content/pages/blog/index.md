@@ -3,7 +3,7 @@ title: Блог
 subtitle: Это необязательный подзаголовок для страницы блога
 image: images/5.jpg
 has_more_link: true
-more_link_text: Read more
+more_link_text: Читать далее
 seo:
   title: Blog
   description: This is the blog page
