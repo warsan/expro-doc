@@ -163,8 +163,8 @@ models:
         name: sections
         label: Разделы
         description: >-
-          The main sections of the documentation. Every item must be the URL
-          slug representing the section.
+          Основные разделы документации. Каждый элемент должен быть URL slug,
+          представляющим раздел.
         items:
           type: string
     labelField: root_docs_path
