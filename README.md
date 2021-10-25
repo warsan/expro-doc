@@ -47,7 +47,7 @@ Stackbit выполнит для вас следующие действия
 - 📺 &nbsp; [Добавление, изменение порядка и удаление элементов](https://stackbit.link/project-readme-adding-video)
 - 📺 &nbsp; [Сотрудничество](https://stackbit.link/project-readme-collaboration-video)
 - 📺 &nbsp; [Издательство](https://stackbit.link/project-readme-publishing-video)
-- 📚 &nbsp; [Stackbit Documentation](https://stackbit.link/project-readme-documentation)
+- 📚 &nbsp; [Документация по стекбиту](https://stackbit.link/project-readme-documentation)
 
 If you need a hand, make sure to check the [Stackbit support page](https://stackbit.link/project-readme-support).
 
