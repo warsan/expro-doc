@@ -79,7 +79,7 @@ layout: docs
   Блоки кода имеют функцию копирования. Чтобы скопировать код, нажмите серую кнопку, расположенную в правом верхнем углу.
 </div>
 
-You can create simple code blocks by placing triple backticks <code>```</code> before and after the code block. To render a code block more readable, we recommend placing a blank line before and after code blocks.
+Вы можете создавать простые блоки кода, размещая тройные обратные знаки <code>```</code> до и после блока кода. Чтобы сделать блок кода более читаемым, мы рекомендуем помещать пустую строку перед и после блоков кода.
 
 <pre>```
 if (condition) {
