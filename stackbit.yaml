@@ -212,7 +212,7 @@ models:
       - type: list
         name: sections
         label: Sections
-        description: Page sections
+        description: Разделы страницы
         items:
           type: model
           models:
