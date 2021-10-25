@@ -566,6 +566,7 @@ models:
         name: label
         label: Метка
         required: true
+        description: 'Вместо '
       - type: string
         name: url
         label: URL
