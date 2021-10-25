@@ -71,7 +71,7 @@ models:
           - header
       - type: model
         name: footer
-        label: Footer Configuration
+        label: Конфигурация нижнего колонтитула
         models:
           - footer
     file: config.json
