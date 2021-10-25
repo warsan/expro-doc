@@ -346,7 +346,7 @@ models:
         description: Уникальный идентификатор раздела, не должен содержать пробелы
   section_content:
     type: object
-    label: Раздел содержания
+    label: ' Содержание Раздела'
     fields:
       - type: string
         name: title
