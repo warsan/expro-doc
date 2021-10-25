@@ -145,7 +145,7 @@ models:
   doc_sections:
     type: data
     file: doc_sections.yml
-    label: Documentation Sections
+    label: Разделы документации
     fields:
       - type: string
         name: root_docs_path
