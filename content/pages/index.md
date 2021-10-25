@@ -65,7 +65,7 @@ sections:
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
       consectetur lobortis.
     actions:
-      - label: Get Started
+      - label: Приступить к работе
         url: /docs/getting-started/installation
         style: primary
   - section_id: features-two-col
