@@ -56,7 +56,7 @@ models:
       - type: enum
         name: palette
         label: Цветовая палитра
-        description: The color palette of the site
+        description: Цветовая палитра сайта
         options:
           - blue
           - green
