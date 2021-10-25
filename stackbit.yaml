@@ -374,7 +374,7 @@ models:
         default: left
       - type: markdown
         name: content
-        label: Content
+        label: Содержание
         description: Текстовое содержание раздела
       - type: list
         name: actions
