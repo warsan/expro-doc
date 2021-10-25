@@ -36,7 +36,7 @@ layout: docs
 
 ### Пример HTML
 
-Copy the code and modify these blocks according to your needs.
+Скопируйте код и измените эти блоки в соответствии с вашими потребностями.
 
 ```
 <div class="important">
