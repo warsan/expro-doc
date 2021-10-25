@@ -18,8 +18,7 @@ The contents of the website are stored in git with the rest of the site's code.
 
 When deploying the website, [Sourcebit](https://github.com/stackbithq/sourcebit) reads the site's contents from files and provides it to Next.js. Once Next.js finishes generating the static website, [Netlify](https://www.netlify.com) pushes the static files to its CDN.
 
-[Sourcebit](https://github.com/stackbithq/sourcebit) and its plugins, specifically [`sourcebit-source-filesystem`](https://github.com/stackbithq/sourcebit-source-filesystem)
-and [`sourcebit-target-next`](https://github.com/stackbithq/sourcebit-target-next), are used to read the site's contents from files, normalize it, and provide it to Next.js pages. 
+[Sourcebit](https://github.com/stackbithq/sourcebit) and its plugins, specifically [`sourcebit-source-filesystem`](https://github.com/stackbithq/sourcebit-source-filesystem) and [`sourcebit-target-next`](https://github.com/stackbithq/sourcebit-target-next), are used to read the site's contents from files, normalize it, and provide it to Next.js pages. 
 It also sets up live updates in development mode allowing you to update the content files and instantly see your updates in the browser.
 
 
