@@ -93,7 +93,7 @@ if (condition) {
     <caption>Таблица с thead, tfoot и tbody</caption>
     <thead>
       <tr>
-        <th>Ш 1</th>
+        <th>Шап 1</th>
         <th>Header content 2</th>
       </tr>
     </thead>
