@@ -175,10 +175,10 @@ models:
     fields:
       - type: string
         name: title
-        label: Title
+        label: Заголовок
         description: >-
-          The title of the page, used both as a page title and as a navigation
-          menu title
+          Заголовок страницы, используемый как в качестве заголовка страницы,
+          так и в качестве заголовка навигационного меню
         required: true
       - type: number
         name: weight
