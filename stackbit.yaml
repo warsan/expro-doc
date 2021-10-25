@@ -244,7 +244,7 @@ models:
       - type: string
         name: subtitle
         label: Субтитр
-        description: The text shown just below the page title
+        description: Текст, отображаемый сразу под заголовком страницы
       - type: image
         name: image
         label: Background Image
