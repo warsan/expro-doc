@@ -112,7 +112,7 @@ if (condition) {
   </table>
 </div>
 
-## Callouts
+## Вызовы
 
 <div class="important">
   <strong>Important:</strong> 
