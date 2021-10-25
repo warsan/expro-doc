@@ -13,8 +13,8 @@
 
 <img src="https://themes.stackbit.com/images/libris-demo-1024x768.png" width="600">
 
-The theme can be used to create a static website that is hosted by a serverless deployment platform such as [Netlify](https://www.netlify.com). 
-The contents of the website are stored in git with the rest of the site's code.
+Тема может быть использована для создания статического веб-сайта, который размещается на платформе бессерверного развертывания, например [Netlify](https://www.netlify.com). 
+Содержимое сайта хранится в git вместе с остальным кодом сайта.
 
 When deploying the website, [Sourcebit](https://github.com/stackbithq/sourcebit) reads the site's contents from files and provides it to Next.js. Once Next.js finishes generating the static website, [Netlify](https://www.netlify.com) pushes the static files to its CDN.
 
