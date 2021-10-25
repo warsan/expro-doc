@@ -190,8 +190,8 @@ models:
         name: excerpt
         label: Excerpt
         description: >-
-          Short description of the documentation section. Displayed in
-          documentation overview section.
+          Краткое описание раздела документации. Отображается в разделе "Обзор
+          документации".
       - type: model
         name: seo
         models:
