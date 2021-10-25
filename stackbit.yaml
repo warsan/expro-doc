@@ -434,7 +434,7 @@ models:
         description: A unique identifier of the section, must not contain whitespace
       - type: string
         name: subtitle
-        label: Subtitle
+        label: Субтитр
         description: Подзаголовок раздела
       - type: enum
         name: col_number
