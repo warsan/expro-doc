@@ -48,9 +48,7 @@ models:
       - type: string
         name: domain
         label: Домен
-        description: >-
-          The domain of your site, including the protocol, e.g.
-          https://mysite.com/
+        description: Домен вашего сайта, включая протокол, например. https://mysite.com/
       - type: image
         name: favicon
         label: Favicon
