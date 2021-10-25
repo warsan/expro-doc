@@ -23,7 +23,7 @@ sections:
         title_url: 'https://themes.stackbit.com/demos/fjord/'
         image: images/8.jpg
         content: Минимальная тема для блогов Unibit
-      - title: Ampersand
+      - title: Амперсанд
         title_url: 'https://themes.stackbit.com/demos/ampersandexto/'
         image: images/9.jpg
         content: Medium inspired blogging theme for Unibit
