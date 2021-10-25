@@ -22,7 +22,7 @@
 Он также устанавливает живые обновления в режиме разработки, позволяя вам обновлять файлы контента и мгновенно видеть обновления в браузере.
 
 
-## Quick Start 🏎
+## Быстрый старт 🏎
 
 [Create a site](https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/libris-nextjs&utm_source=theme-readme&utm_medium=referral&utm_campaign=stackbit_themes) from this theme using Stackbit.
 
