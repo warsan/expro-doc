@@ -69,7 +69,7 @@ a:hover {
   text-decoration: none; }
 ```
 
-## Callouts
+## Вызовы
 
 There are two types of callouts available in this theme, **important** and **note**.
 
