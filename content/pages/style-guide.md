@@ -96,7 +96,7 @@ body {
 window.$docsify = {
   coverpage: true,
 
-  // Custom file name
+  // Пользовательское имя файла
   coverpage: 'cover.md',
 
   // mutiple covers
