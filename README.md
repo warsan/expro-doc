@@ -49,7 +49,7 @@ Stackbit выполнит для вас следующие действия
 - 📺 &nbsp; [Издательство](https://stackbit.link/project-readme-publishing-video)
 - 📚 &nbsp; [Документация по стекбиту](https://stackbit.link/project-readme-documentation)
 
-If you need a hand, make sure to check the [Stackbit support page](https://stackbit.link/project-readme-support).
+Если вам нужна помощь, обязательно загляните на [страницу поддержки Stackbit](https://stackbit.link/project-readme-support).
 
 
 ## Develop Locally
