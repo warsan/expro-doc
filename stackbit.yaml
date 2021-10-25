@@ -207,7 +207,7 @@ models:
       - type: string
         name: title
         label: Title
-        description: The title of the page.
+        description: Название страницы.
         required: true
       - type: list
         name: sections
