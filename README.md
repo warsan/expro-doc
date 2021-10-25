@@ -37,8 +37,7 @@ Stackbit выполнит для вас следующие действия
 
 ## Редактирование контента 📝
 
-Once Stackbit creates a site, you can start editing the content using the free
-on-page editing experience provided by the [Stackbit Studio](https://stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes).
+Once Stackbit creates a site, you can start editing the content using the free on-page editing experience provided by the [Stackbit Studio](https://stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes).
 
 [![](https://i3.ytimg.com/vi/zd9lGRLVDm4/hqdefault.jpg)](https://stackbit.link/project-readme-lead-video)
 
