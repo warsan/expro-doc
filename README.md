@@ -31,8 +31,7 @@ Stackbit выполнит для вас следующие действия
 - Создайте новый репозиторий GitHub с содержимым этого репозитория.
 - Создайте сайт [Netlify](https://www.netlify.com), подключенный к репозиторию GitHub
 - Разверните сайт Netlify.
-- Create a "commit" webhook in GitHub that will trigger Netlify deployment as
-  soon as new commit is pushed to GitHub.
+- Create a "commit" webhook in GitHub that will trigger Netlify deployment as soon as new commit is pushed to GitHub.
 - Create a Stackbit project that will allow you edit your website via on-page
   visual editing experience. 
 
