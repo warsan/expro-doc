@@ -211,7 +211,7 @@ models:
         required: true
       - type: list
         name: sections
-        label: Sections
+        label: Разделы
         description: Разделы страницы
         items:
           type: model
