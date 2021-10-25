@@ -44,7 +44,7 @@ Stackbit выполнит для вас следующие действия
 Вот несколько ресурсов, которые помогут вам начать:
 
 - 📺 &nbsp; [Редактирование контента](https://stackbit.link/project-readme-editing-video)
-- 📺 &nbsp; [Adding, Reordering and Deleting Items](https://stackbit.link/project-readme-adding-video)
+- 📺 &nbsp; [Добавление, изменение порядка и удаление элементов](https://stackbit.link/project-readme-adding-video)
 - 📺 &nbsp; [Collaboration](https://stackbit.link/project-readme-collaboration-video)
 - 📺 &nbsp; [Publishing](https://stackbit.link/project-readme-publishing-video)
 - 📚 &nbsp; [Stackbit Documentation](https://stackbit.link/project-readme-documentation)
