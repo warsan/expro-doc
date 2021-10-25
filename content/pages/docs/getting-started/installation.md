@@ -75,8 +75,8 @@ layout: docs
 ## Кодовые блоки
 
 <div class="note">
-  <strong>Note:</strong>
-  Code blocks have copy functionality. To copy the code press the grey button located in the right side top corner.
+  <strong>Примечание:</strong>
+  Блоки кода имеют функцию копирования. Чтобы скопировать код, нажмите серую кнопку, расположенную в правом верхнем углу.
 </div>
 
 You can create simple code blocks by placing triple backticks <code>```</code> before and after the code block. To render a code block more readable, we recommend placing a blank line before and after code blocks.
