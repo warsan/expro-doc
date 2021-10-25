@@ -39,7 +39,7 @@ models:
         required: true
       - type: string
         name: path_prefix
-        label: Base URL
+        label: Базовый URL
         description: >-
           The base URL of this site. Useful for sites hosted under specific
           path, e.g.: https://www.example.com/my-site/
