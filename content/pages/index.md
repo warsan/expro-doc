@@ -45,7 +45,7 @@ sections:
     type: section_content
     image: images/jamstack.svg
     image_position: left
-    title: A Section With An Image
+    title: Раздел с изображением
     content: >-
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
