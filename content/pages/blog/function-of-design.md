@@ -1,5 +1,5 @@
 ---
-title: Функция дизайна заключается в том, чтобы позволить дизайна функции
+title: Функция дизайна заключается в том, чтобы позволить дизайн функции
 subtitle: Vestibulum sed arcu non odio euismod lacinia at quis risus
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
