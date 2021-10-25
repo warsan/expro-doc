@@ -35,7 +35,7 @@ models:
       - type: string
         name: title
         label: Название
-        description: Site title
+        description: Название сайта
         required: true
       - type: string
         name: path_prefix
