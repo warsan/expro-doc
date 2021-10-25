@@ -118,7 +118,7 @@ window.$docsify = {
     <thead>
       <tr>
         <th>Шапка 1</th>
-        <th>Header content 2</th>
+        <th>Шапка 2</th>
       </tr>
     </thead>
     <tbody>
