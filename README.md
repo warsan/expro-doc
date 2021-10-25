@@ -56,8 +56,7 @@ Stackbit выполнит для вас следующие действия
 
 1. [Создать сайт](https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/libris-nextjs&utm_source=theme-readme&utm_medium=referral&utm_campaign=stackbit_themes) из этой темы с помощью Stackbit.
 
-1. Once finished, you will be redirected to Stackbit Studio where you will be able to edit the content using the free on-page editing experience, and
-   publish new versions of your site.
+1. Once finished, you will be redirected to Stackbit Studio where you will be able to edit the content using the free on-page editing experience, and publish new versions of your site.
 
 1. To further develop your site, clone the generated repository.
 
