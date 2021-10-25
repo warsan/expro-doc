@@ -74,7 +74,7 @@ a:hover {
 В этой теме доступны два типа выносок: **важно** и **примечание**.
 
 <div class="important">
-  <strong>Important:</strong> 
+  <strong>Важно:</strong> 
   This is an "Important" callout block of text. 
   This block indicates a warning or caution.
   Use it for an important message. 
