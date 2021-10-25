@@ -54,7 +54,7 @@ sections:
       - label: Посмотреть демо-версию
         url: /docs/getting-started
         style: primary
-      - label: Get Started
+      - label: Приступить к работе
         url: /docs/getting-started
         style: secondary
   - section_id: text-no-img
