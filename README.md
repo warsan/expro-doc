@@ -52,7 +52,7 @@ Stackbit выполнит для вас следующие действия
 Если вам нужна помощь, обязательно загляните на [страницу поддержки Stackbit](https://stackbit.link/project-readme-support).
 
 
-## Develop Locally
+## Развиваться локально
 
 1. [Create a site](https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/libris-nextjs&utm_source=theme-readme&utm_medium=referral&utm_campaign=stackbit_themes) from this theme using Stackbit.
 
