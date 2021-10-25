@@ -68,7 +68,8 @@ Stackbit выполнит для вас следующие действия
 
         npm run develop
 
-1. Open [http://localhost:3000/](http://localhost:3000/) in the browser to see your site. You can now edit the site contents, and the browser will live-update your changes. 🎉
+1. Open [http://localhost:3000/](http://localhost:3000/) in the browser to see your site. 
+You can now edit the site contents, and the browser will live-update your changes. 🎉
 
 
 ## Building for production 🏗
