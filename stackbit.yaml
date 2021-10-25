@@ -161,7 +161,7 @@ models:
         required: true
       - type: list
         name: sections
-        label: Sections
+        label: Разделы
         description: >-
           The main sections of the documentation. Every item must be the URL
           slug representing the section.
