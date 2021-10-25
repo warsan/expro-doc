@@ -303,7 +303,7 @@ models:
         required: true
       - type: string
         name: subtitle
-        label: Subtitle
+        label: Субтитр
         description: Текст, отображаемый сразу под заголовком сообщения
       - type: date
         name: date
