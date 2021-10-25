@@ -41,8 +41,8 @@ models:
         name: path_prefix
         label: Базовый URL
         description: >-
-          Базовый URL-адрес этого сайта. Полезно для сайтов, размещенных по
-          определенному пути, например: https://www.example.com/my-site/
+          Базовый URL-адрес этого сайта. Полезно для сайтов, размещённых по
+          определённому пути, например, https://www.example.com/my-site/
         required: true
         hidden: true
       - type: string
