@@ -20,7 +20,8 @@ When deploying the website, [Sourcebit](https://github.com/stackbithq/sourcebit)
 
 [Sourcebit](https://github.com/stackbithq/sourcebit) and its plugins, specifically
 [`sourcebit-source-filesystem`](https://github.com/stackbithq/sourcebit-source-filesystem)
-and [`sourcebit-target-next`](https://github.com/stackbithq/sourcebit-target-next), are used to read the site's contents from files, normalize it, and provide it to Next.js pages. It also sets up live updates in development mode allowing you to update the content files and instantly see your updates in the browser.
+and [`sourcebit-target-next`](https://github.com/stackbithq/sourcebit-target-next), are used to read the site's contents from files, normalize it, and provide it to Next.js pages. 
+It also sets up live updates in development mode allowing you to update the content files and instantly see your updates in the browser.
 
 
 ## Quick Start 🏎
