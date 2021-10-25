@@ -26,7 +26,7 @@ seo:
       value: Theme Style Guide
     - name: 'twitter:description'
       value: >-
-        A reference for suggested typographic treatment and styles for your content
+        Ссылка на предлагаемые типографские обработки и стили для вашего контента
     - name: 'twitter:image'
       value: images/5.jpg
       relativeUrl: true
