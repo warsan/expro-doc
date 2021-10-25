@@ -99,7 +99,7 @@ a:hover {
 
 ## Начните использовать тему Libris
 
-We’ve packed this theme with powerful features to help you have awesome documentation for your current or next project.
+Мы оснастили эту тему мощными функциями, которые помогут вам создать потрясающую документацию для вашего текущего или следующего проекта.
 
 <br>
 
