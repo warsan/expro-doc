@@ -35,7 +35,7 @@ Stackbit выполнит для вас следующие действия
 - Создаст проект Stackbit, который позволит вам редактировать ваш сайт с помощью визуального редактирования на странице. 
 
 
-## Editing Content 📝
+## Редактирование контента 📝
 
 Once Stackbit creates a site, you can start editing the content using the free
 on-page editing experience provided by the [Stackbit Studio](https://stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes).
