@@ -34,7 +34,7 @@ models:
     fields:
       - type: string
         name: title
-        label: Title
+        label: Название
         description: Site title
         required: true
       - type: string
