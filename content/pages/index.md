@@ -80,7 +80,7 @@ sections:
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla tortor at, pulvinar orci.
         actions:
-          - label: Learn More
+          - label: Подробнее
             url: /overview
             style: link
       - title: Showcase
