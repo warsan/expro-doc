@@ -151,7 +151,7 @@ models:
     fields:
       - type: string
         name: root_docs_path
-        label: Root Documentation URL Path
+        label: Путь URL корневой документации
         description: >-
           Путь URL, по которому будут генерироваться страницы документации.
           Например, значение "/" будет размещать все страницы документации в
