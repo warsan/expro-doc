@@ -32,8 +32,7 @@ Stackbit выполнит для вас следующие действия
 - Создайте сайт [Netlify](https://www.netlify.com), подключенный к репозиторию GitHub
 - Разверните сайт Netlify.
 - Создайте "фиксацию" webhook в GitHub, который будет запускать развертывание Netlify, как только новый коммит будет опубликован на GitHub.
-- Create a Stackbit project that will allow you edit your website via on-page
-  visual editing experience. 
+- Create a Stackbit project that will allow you edit your website via on-page visual editing experience. 
 
 
 ## Editing Content 📝
