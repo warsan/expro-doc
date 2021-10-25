@@ -2,7 +2,7 @@
 title: О сайте
 excerpt: >-
   Libris - это тема Unibit, созданная для проектной документации. Вы можете
-  использовать его для своего проекта.
+  использовать её для своего проекта.
 seo:
   title: About
   description: This is the about page
