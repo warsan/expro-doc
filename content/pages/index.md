@@ -71,7 +71,7 @@ sections:
   - section_id: features-two-col
     type: section_grid
     title: Sample Layouts
-    subtitle: An optional subtitle of the section
+    subtitle: Необязательный подзаголовок раздела
     col_number: two
     grid_items:
       - title: Overview
