@@ -9,7 +9,7 @@
   <a href="https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/libris-nextjs&utm_source=theme-readme&utm_medium=referral&utm_campaign=stackbit_themes"><img alt="Create with Stackbit" src="https://assets.stackbit.com/badge/create-with-stackbit.svg"/></a>
 </p>
 
-[Live Site Demo](https://themes.stackbit.com/demos/libris/)
+[Живая демонстрация сайта](https://themes.stackbit.com/demos/libris/)
 
 <img src="https://themes.stackbit.com/images/libris-demo-1024x768.png" width="600">
 
