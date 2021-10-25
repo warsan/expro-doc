@@ -72,7 +72,7 @@ layout: docs
 
 <hr>
 
-## Code blocks
+## Кодовые блоки
 
 You can create simple code blocks by placing triple backticks <code>```</code> before and after the code block. To render a code block more readable, we recommend placing a blank line before and after code blocks.
 
