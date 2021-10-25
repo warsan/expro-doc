@@ -230,7 +230,7 @@ models:
   blog:
     type: page
     urlPath: /blog
-    label: Blog
+    label: Блог
     layout: blog
     file: blog/index.md
     hideContent: true
