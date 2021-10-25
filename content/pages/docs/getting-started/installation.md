@@ -72,7 +72,7 @@ layout: docs
 
 <hr>
 
-## Code blocks
+## Кодовые блоки
 
 <div class="note">
   <strong>Note:</strong>
