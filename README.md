@@ -18,8 +18,8 @@
 
 При развертывании сайта [Sourcebit](https://github.com/stackbithq/sourcebit) считывает содержимое сайта из файлов и предоставляет его Next.js. Как только Next.js завершает генерацию статического веб-сайта, [Netlify](https://www.netlify.com) размещает статические файлы в своей CDN.
 
-[Sourcebit](https://github.com/stackbithq/sourcebit) and its plugins, specifically [`sourcebit-source-filesystem`](https://github.com/stackbithq/sourcebit-source-filesystem) and [`sourcebit-target-next`](https://github.com/stackbithq/sourcebit-target-next), are used to read the site's contents from files, normalize it, and provide it to Next.js pages. 
-It also sets up live updates in development mode allowing you to update the content files and instantly see your updates in the browser.
+[Sourcebit](https://github.com/stackbithq/sourcebit) и его плагины, в частности [`sourcebit-source-filesystem`](https://github.com/stackbithq/sourcebit-source-filesystem) и [`sourcebit-target-next`](https://github.com/stackbithq/sourcebit-target-next), используются для чтения содержимого сайта из файлов, его нормализации и предоставления страницам Next.js. 
+Он также устанавливает живые обновления в режиме разработки, позволяя вам обновлять файлы контента и мгновенно видеть обновления в браузере.
 
 
 ## Quick Start 🏎
