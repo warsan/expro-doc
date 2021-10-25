@@ -93,7 +93,7 @@ a:hover {
 | Name | Required | Type | Description |
 | ---- | --- | --- | --- |
 | type | Required | `enum` | Тип модели. Должен быть одним из - `page`, `config`, `data`, `object` |
-| label | Required | `string` | The label of the model |
+| label | Required | `string` | Ярлык модели |
 | description | | `string` | Description of the model. Used by some CMS. |
 | fields | | `list` of `objects` | List of Field Models |
 
