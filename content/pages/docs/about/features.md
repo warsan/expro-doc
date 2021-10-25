@@ -97,7 +97,7 @@ a:hover {
 | description | | `string` | Description of the model. Used by some CMS. |
 | fields | | `list` of `objects` | List of Field Models |
 
-## Start using Libris theme
+## Начните использовать тему Libris
 
 We’ve packed this theme with powerful features to help you have awesome documentation for your current or next project.
 
