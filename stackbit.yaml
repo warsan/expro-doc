@@ -404,7 +404,7 @@ models:
         description: A unique identifier of the section, must not contain whitespace
       - type: string
         name: subtitle
-        label: Subtitle
+        label: Субтитр
         description: The subtitle of the section
       - type: list
         name: actions
