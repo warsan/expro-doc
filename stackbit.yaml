@@ -30,7 +30,7 @@ pageData:
 models:
   config:
     type: data
-    label: Site Configuration
+    label: Конфигурация сайта
     fields:
       - type: string
         name: title
