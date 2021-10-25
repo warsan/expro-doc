@@ -3,7 +3,7 @@ title: Дом
 sections:
   - section_id: hero
     type: section_hero
-    title: Hero Section
+    title: Секция героев
     image: images/5.jpg
     content: >-
       Этот раздел может содержать подзаголовок или теглайн. Рекомендуемая длина составляет от одного до трех предложений, но может быть изменено по вашему желанию.
