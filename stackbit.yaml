@@ -392,7 +392,7 @@ models:
     labelField: title
   section_cta:
     type: object
-    label: CTA Section
+    label: Раздел CTA
     fields:
       - type: string
         name: title
