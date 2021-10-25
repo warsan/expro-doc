@@ -26,7 +26,7 @@ sections:
       - title: Амперсанд
         title_url: 'https://themes.stackbit.com/demos/ampersandexto/'
         image: images/9.jpg
-        content: Medium inspired blogging theme for Unibit
+        content: Тема для блогов, вдохновленная медиумом, для Unibit
 seo:
   title: Showcase
   description: This is the showcase page
