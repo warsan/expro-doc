@@ -99,7 +99,7 @@ if (condition) {
     </thead>
     <tbody>
       <tr>
-        <td>Т 1</td>
+        <td>Тело 1</td>
         <td>Body content 2</td>
       </tr>
     </tbody>
