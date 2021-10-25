@@ -5,7 +5,8 @@ sections:
     type: section_hero
     title: Витрина
     image: images/5.jpg
-    content: This is an optional page subtitle
+    content: |
+      Это необязательный подзаголовок страницы
   - section_id: showcase
     type: section_grid
     col_number: three
