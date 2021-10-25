@@ -49,9 +49,9 @@ layout: docs
 
 ```
 <div class="note">
-  <strong>Note:</strong> 
-  This is a "Note" callout block of text. 
-  This block signifies a general note.
+  <strong>Примечание:</strong> 
+  Это "Примечание" блок текста для вызова. 
+  Этот блок обозначает общее примечание.
 </div>
 ```
 
