@@ -41,7 +41,7 @@ export default class Docs extends React.Component {
 
     componentDidUpdate() {
         if (window && window.Gumshoe && this.pageNavContainer.current) {
-            // Highlight current anchor
+            // Выделите текущий якорь
             let pageTocLinks = this.pageNavContainer.current.getElementsByTagName('a');
             if (pageTocLinks.length > 0) {
                 this.gumshoeSpy = new window.Gumshoe('#page-nav-link-container a', {
