@@ -30,7 +30,7 @@ export default class Docs extends React.Component {
         }
 
         if (window && window.ClipboardJS) {
-            // Copy link url
+            // Скопируйте url ссылки
             this.clipboard = new window.ClipboardJS('.post-content .hash-link', {
                 text: function (trigger) {
                     return window.location.href.replace(window.location.hash, '') + trigger.getAttribute('href');
