@@ -51,7 +51,7 @@ export default class Header extends React.Component {
                 <nav id="main-navigation" className="site-navigation" aria-label="Main Navigation">
                     <div className="site-nav-inside">
                         <button id="menu-close" className="menu-toggle" onClick={this.handleMenuToggle.bind(this)}>
-                            <span className="screen-reader-text">Close Menu</span>
+                            <span className="screen-reader-text">Закрыть меню</span>
                             <span className="icon-close" aria-hidden="true" />
                         </button>
                         <ul className="menu">
