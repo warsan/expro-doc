@@ -78,7 +78,7 @@ layout: docs
 
 <pre>```
 if (condition) {
-  code to run if condition is true
+  код для выполнения, если условие истинно
 } else {
   run some other code instead
 }
