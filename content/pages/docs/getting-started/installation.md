@@ -58,10 +58,10 @@ layout: docs
 ### Живой пример
 
 <div class="important">
-  <strong>Important:</strong> 
-  This is an "Important" callout block of text. 
-  This block indicates a warning or caution.
-  Use it for an important message. 
+  <strong>Важно:</strong> 
+  Это "Важно" блок текста для вызова. 
+  Этот блок обозначает предупреждение или предостережение.
+  Используйте его для важного сообщения. 
 </div>
 
 <div class="note">
