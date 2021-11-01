@@ -456,7 +456,7 @@ models:
     labelField: title
   section_grid:
     type: object
-    label: Grid Section
+    label: Секция сетки
     fields:
       - type: string
         name: title
