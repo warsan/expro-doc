@@ -27,7 +27,7 @@ layout: docs
 > Проект перевода на 
 > [github.com](https://github.com/customizer/svg.js-ru) .
 >
->
+
 
 ***
 
