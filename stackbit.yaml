@@ -508,7 +508,7 @@ models:
       - type: image
         name: image
         label: Image
-        description: The image shown in the background of the section
+        description: Изображение, показанное на заднем плане раздела
       - type: markdown
         name: content
         label: Содержание
