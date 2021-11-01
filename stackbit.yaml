@@ -109,7 +109,7 @@ models:
       - type: list
         name: nav_links
         label: Навигационные ссылки
-        description: List of navigation links
+        description: Список навигационных ссылок
         items:
           type: model
           models:
