@@ -473,7 +473,7 @@ models:
       - type: enum
         name: col_number
         label: Колонки
-        description: The number of grid items in a row
+        description: Количество элементов сетки в строке
         options:
           - two
           - three
