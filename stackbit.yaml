@@ -488,7 +488,7 @@ models:
             - grid_item
       - type: string
         name: type
-        label: Object Type
+        label: Тип объекта
         description: The type of the object
         const: section_grid
         hidden: true
