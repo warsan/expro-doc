@@ -29,7 +29,7 @@ layout: docs
 >
 ***
 
-Sed vel arcu ac ante blandit ultricies quis eget justo. Donec et lacinia sapien, sit amet tempus ligula. Fusce et sagittis massa. Fusce mollis mollis dui eget sagittis. Suspendisse id nunc mauris.
+svg.js - это легковесная JavaScript библиотека для управления и анимации векторной графики в формате SVG.
 
 Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus.
 
