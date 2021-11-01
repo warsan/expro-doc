@@ -489,7 +489,7 @@ models:
       - type: string
         name: type
         label: Тип объекта
-        description: The type of the object
+        description: Тип объекта
         const: section_grid
         hidden: true
     labelField: title
