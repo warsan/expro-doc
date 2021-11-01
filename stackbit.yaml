@@ -538,7 +538,7 @@ models:
         description: Название предмета
       - type: string
         name: title_url
-        label: Title URL
+        label: Название URL
         description: The URL of the item title
       - type: image
         name: image
