@@ -35,6 +35,7 @@ layout: docs
 SVG.js не имеет никаких зависимостей и стремится стать как можно меньше по размеру, при этом обеспечивая почти полное покрытие спецификации SVG. Если вы еще не убедились в этом, вот несколько основных моментов.   
 SVG.js экономный  
 SVG.js легковесен. Цифры не лгут, вот он в сравнении с конкурентами:  <script async src="//jsfiddle.net/wout/kdy3ssqx/21/embed/result/"></script>
+
 Suspendisse sed massa metus.
 
 [Morbi ac vulputate enim](https://stackbit.com)
