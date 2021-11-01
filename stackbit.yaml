@@ -676,7 +676,7 @@ models:
         default: ''
       - type: string
         name: description
-        label: Description
+        label: Описание
         description: Описание страницы, которое помещается в тег <meta name="description">.
         default: ''
       - type: list
