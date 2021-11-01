@@ -50,6 +50,6 @@ fill - создание 10000 прямоугольников и заливка �
 gradient - создание 10000 прямоугольников и заполнение их градиентом  
 Чем меньше тем лучше. Протестировано на Intel Core m5 - 1,2 ГГц.  
 
-//[Morbi ac vulputate enim](https://stackbit.com)  
+/[Morbi ac vulputate enim](https://stackbit.com)  
 
 Maecenas metus justo, imperdiet vel velit et, iaculis consectetur risus. Etiam venenatis odio quis vulputate interdum. Nulla facilisi. Pellentesque nibh nibh, elementum sed mauris vel, commodo pretium magna.
