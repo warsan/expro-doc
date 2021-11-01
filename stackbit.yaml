@@ -468,7 +468,7 @@ models:
         description: Уникальный идентификатор раздела, не должен содержать пробелы
       - type: string
         name: subtitle
-        label: Subtitle
+        label: Субтитр
         description: The subtitle of the section
       - type: enum
         name: col_number
