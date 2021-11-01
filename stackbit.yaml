@@ -659,7 +659,7 @@ models:
         default: false
       - type: list
         name: subnav_links
-        label: Sub-Navigation Links
+        label: Поднавигационные ссылки
         items:
           type: model
           models:
