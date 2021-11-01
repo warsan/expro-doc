@@ -512,7 +512,7 @@ models:
       - type: markdown
         name: content
         label: Содержание
-        description: The text content of the section
+        description: Текстовое содержание раздела
       - type: list
         name: actions
         label: Action Buttons
