@@ -481,7 +481,7 @@ models:
         required: true
       - type: list
         name: grid_items
-        label: Grid Items
+        label: Элементы сетки
         items:
           type: model
           models:
