@@ -256,7 +256,7 @@ models:
         default: true
       - type: string
         name: more_link_text
-        label: 'Метка ссылки "Подробнее" '
+        label: Метка ссылки Подробнее
       - type: model
         name: seo
         models:
