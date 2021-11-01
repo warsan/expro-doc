@@ -543,7 +543,7 @@ models:
       - type: image
         name: image
         label: Image
-        description: The image of the item
+        description: Изображение предмета
       - type: string
         name: image_alt
         label: Image Alt Text
