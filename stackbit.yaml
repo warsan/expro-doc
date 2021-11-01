@@ -97,7 +97,7 @@ models:
         description: The alt text of the logo image
       - type: string
         name: url
-        label: Header Title (Logo) URL
+        label: URL заголовка шапки (Logo)
         description: >-
           URL-адрес заголовка (логотипа). Пригодится, если вы хотите, чтобы
           заголовок шапки (логотип) ссылался на другой URL, а не на главную
