@@ -667,7 +667,7 @@ models:
     labelField: label
   stackbit_page_meta:
     type: object
-    label: Page meta data
+    label: Страницы метаданных
     fields:
       - type: string
         name: title
