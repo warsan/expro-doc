@@ -655,7 +655,7 @@ models:
         description: Add rel="nofollow" attribute to the link
       - type: boolean
         name: has_subnav
-        label: Has Sub-Navigation
+        label: Имеет под-навигацию
         default: false
       - type: list
         name: subnav_links
