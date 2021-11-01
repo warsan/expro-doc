@@ -609,7 +609,7 @@ models:
         description: Add rel="nofollow" attribute to the link
   action_menu:
     type: object
-    label: Parent Action
+    label: Действия родителей
     fields:
       - type: string
         name: label
