@@ -677,7 +677,7 @@ models:
       - type: string
         name: description
         label: Description
-        description: The page description that goes into the <meta name="description"> tag
+        description: Описание страницы, которое помещается в тег <meta name="description">.
         default: ''
       - type: list
         name: robots
