@@ -27,7 +27,6 @@ layout: docs
 > Проект перевода на 
 > [github.com](https://github.com/customizer/svg.js-ru) .
 >
-
 ***
 
 Sed vel arcu ac ante blandit ultricies quis eget justo. Donec et lacinia sapien, sit amet tempus ligula. Fusce et sagittis massa. Fusce mollis mollis dui eget sagittis. Suspendisse id nunc mauris.
