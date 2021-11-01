@@ -83,7 +83,7 @@ models:
     fields:
       - type: string
         name: title
-        label: Header Title
+        label: Заголовок шапки
         description: The title displayed in the header if no logo image added
       - type: image
         name: logo_img
