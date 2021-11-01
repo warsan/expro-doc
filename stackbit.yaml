@@ -529,7 +529,7 @@ models:
     labelField: title
   grid_item:
     type: object
-    label: Grid Item
+    label: Элемент сетки
     labelField: title
     fields:
       - type: string
