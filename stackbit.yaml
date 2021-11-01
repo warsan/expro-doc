@@ -94,7 +94,7 @@ models:
       - type: string
         name: logo_img_alt
         label: Logo Alt Text
-        description: The alt text of the logo image
+        description: Текст alt изображения логотипа
       - type: string
         name: url
         label: URL заголовка шапки (Logo)
