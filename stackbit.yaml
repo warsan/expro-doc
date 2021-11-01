@@ -534,7 +534,7 @@ models:
     fields:
       - type: string
         name: title
-        label: Title
+        label: Название
         description: The title of the item
       - type: string
         name: title_url
