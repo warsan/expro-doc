@@ -42,7 +42,7 @@ SVG.js легковесен. Цифры не лгут, вот он в сравн
 Помните, SVG.js делает все тоже самое, но почти вполовину меньшим кодом!  
 SVG.js быстрый.  
 SVG.js работает очень быстро. Конечно, он не быстрее vanilla js, но намного быстрее конкурентов:  
-<script async src="//jsfiddle.net/wout/xutwzmg5/embed/result/"></script>  
+    <script async src="//jsfiddle.net/wout/xutwzmg5/embed/result/"></script>  
 Указатели:  
 rects - создание 10000 прямоугольников  
 fill - создание 10000 прямоугольников и заливка их цветом  
