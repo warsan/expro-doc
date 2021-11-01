@@ -37,6 +37,7 @@ SVG.js не имеет никаких зависимостей и стремит
 SVG.js экономный  
 SVG.js легковесен. Цифры не лгут, вот он в сравнении с конкурентами:  
 <script async src="//jsfiddle.net/warsand/a9qrsj3w/embed/result/"></script>  
+
 Примечание: Чем меньше тем лучше.  
 <script async src="//jsfiddle.net/wout/xutwzmg5/embed/result/"></script>  
 
