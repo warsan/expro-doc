@@ -550,7 +550,7 @@ models:
         description: Текст alt изображения элемента
       - type: markdown
         name: content
-        label: Content
+        label: Содержание
         description: The text content of the item
       - type: list
         name: actions
