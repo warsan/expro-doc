@@ -248,7 +248,7 @@ models:
       - type: image
         name: image
         label: Background Image
-        description: The image shown in the background of the page header
+        description: Фон заголовка страницы
       - type: boolean
         name: has_more_link
         label: Показать ссылку Читать далее
