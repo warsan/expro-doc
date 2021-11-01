@@ -511,7 +511,7 @@ models:
         description: The image shown in the background of the section
       - type: markdown
         name: content
-        label: Content
+        label: Содержание
         description: The text content of the section
       - type: list
         name: actions
