@@ -32,7 +32,7 @@ layout: docs
 **svg.js** - это легковесная JavaScript библиотека для управления и анимации векторной графики в формате SVG.
 
 ## Почему стоит выбрать SVG.js? 
-Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus.
+SVG.js не имеет никаких зависимостей и стремится стать как можно меньше по размеру, при этом обеспечивая почти полное покрытие спецификации SVG. Если вы еще не убедились в этом, вот несколько основных моментов. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus.
 
 [Morbi ac vulputate enim](https://stackbit.com)
 
