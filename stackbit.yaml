@@ -99,8 +99,9 @@ models:
         name: url
         label: Header Title (Logo) URL
         description: >-
-          The URL of the header title (logo). Useful if you want the header
-          title (logo) link to another URL, rather than the home page.
+          URL-адрес заголовка (логотипа). Пригодится, если вы хотите, чтобы
+          заголовок шапки (логотип) ссылался на другой URL, а не на главную
+          страницу.
       - type: boolean
         name: has_nav
         label: Enable Navigation Menu
