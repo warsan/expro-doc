@@ -469,7 +469,7 @@ models:
       - type: string
         name: subtitle
         label: Субтитр
-        description: The subtitle of the section
+        description: Подзаголовок раздела
       - type: enum
         name: col_number
         label: Columns
