@@ -515,7 +515,7 @@ models:
         description: Текстовое содержание раздела
       - type: list
         name: actions
-        label: Action Buttons
+        label: Кнопки действий
         items:
           type: model
           models:
