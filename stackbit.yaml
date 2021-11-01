@@ -84,7 +84,9 @@ models:
       - type: string
         name: title
         label: Заголовок шапки
-        description: The title displayed in the header if no logo image added
+        description: >-
+          Заголовок, отображаемый в шапке, если не добавлено изображение
+          логотипа
       - type: image
         name: logo_img
         label: Logo
