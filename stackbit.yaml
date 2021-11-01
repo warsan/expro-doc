@@ -93,7 +93,7 @@ models:
         description: Изображение логотипа, отображаемое в заголовке
       - type: string
         name: logo_img_alt
-        label: Logo Alt Text
+        label: Logo Alt текст
         description: Текст alt изображения логотипа
       - type: string
         name: url
