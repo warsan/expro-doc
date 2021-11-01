@@ -546,7 +546,7 @@ models:
         description: Изображение предмета
       - type: string
         name: image_alt
-        label: Image Alt Text
+        label: Image Alt-текст
         description: Текст alt изображения элемента
       - type: markdown
         name: content
