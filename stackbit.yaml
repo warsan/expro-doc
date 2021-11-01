@@ -495,7 +495,7 @@ models:
     labelField: title
   section_hero:
     type: object
-    label: Hero Section
+    label: Секция героев
     fields:
       - type: string
         name: title
