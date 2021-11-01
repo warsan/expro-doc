@@ -33,7 +33,8 @@ layout: docs
 
 ### Почему стоит выбрать SVG.js? 
 SVG.js не имеет никаких зависимостей и стремится стать как можно меньше по размеру, при этом обеспечивая почти полное покрытие спецификации SVG. Если вы еще не убедились в этом, вот несколько основных моментов.   
-Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus.
+SVG.js экономный
+SVG.js легковесен. Цифры не лгут, вот он в сравнении с конкурентами: Suspendisse sed massa metus.
 
 [Morbi ac vulputate enim](https://stackbit.com)
 
