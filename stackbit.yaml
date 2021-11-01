@@ -472,7 +472,7 @@ models:
         description: Подзаголовок раздела
       - type: enum
         name: col_number
-        label: Columns
+        label: Колонки
         description: The number of grid items in a row
         options:
           - two
