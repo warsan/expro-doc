@@ -37,7 +37,7 @@ SVG.js экономный
 SVG.js легковесен. Цифры не лгут, вот он в сравнении с конкурентами:  <script async src="//jsfiddle.net/wout/kdy3ssqx/21/embed/result/"></script>  
 
 Suspendisse sed massa metus.
-
+<script async src="//jsfiddle.net/wout/xutwzmg5/embed/result/"></script>
 
 [Morbi ac vulputate enim](https://stackbit.com)
 
