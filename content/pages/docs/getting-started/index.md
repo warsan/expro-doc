@@ -25,7 +25,10 @@ seo:
 layout: docs
 ---
 
-Ut quis consequat risus. Aenean ut porta ligula. Morbi id ante eu nisi suscipit maximus. Fusce ac congue quam. Nulla id elit facilisis, consequat magna vitae, scelerisque elit. Nullam lacinia elit in arcu scelerisque, ac volutpat neque sodales.
+Не быть речистым - мне не горе, лень - не враг,
+Проблем - разомкнут круг, ведь у меня - сервак,
+Я не просплю букет из моря тучных фраз,
+Любой поэт мне друг, а иногда - все враз.
 
 ***
 
