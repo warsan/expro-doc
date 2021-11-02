@@ -15,7 +15,7 @@ seo:
       value: UI Components
       keyName: property
     - name: 'og:description'
-      value: This is the UI components page
+      value: Это страница компонентов пользовательского интерфейса
       keyName: property
     - name: 'twitter:card'
       value: summary
