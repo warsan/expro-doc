@@ -71,6 +71,6 @@ var draw = SVG('drawing')
 <a href="/docs/3.0/events">привязка событий</a> к элементам  
 полная поддержка <a href="/docs/3.0/elements/#svg-mask">масок</a> непрозрачности и <a href="/docs/3.0/elements/#svg-clippath">обтравочных контуров</a>  
 <a href="/docs/3.0/elements/#svg-textpath">текстовые пути</a>, даже анимированные <a href="/docs/3.0/parents/#svg-g">группы</a> элементов  
-динамические градиенты и узоры  
+динамические <a href="/docs/3.0/elements/#svg-gradient"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">градиенты</font></font></a> и узоры  
 полная документация (кстати, сейчас вы смотрите её :-)
 </div>
