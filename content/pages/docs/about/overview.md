@@ -142,7 +142,7 @@ var path = SVG('#group1 path.myClass')
 // создать новый объект из фрагмента
 var circle = SVG('<circle>')
 
-// convert node to svg.js object
+// преобразование node в объект svg.js
 var obj = SVG(node)
 
 <hr>
