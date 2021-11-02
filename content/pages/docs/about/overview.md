@@ -70,11 +70,8 @@ import { SVG, extend as SVGextend, Element as SVGElement } from '@svgdotjs/svg.j
 
 Затем используйте SVG()функцию, чтобы создать документ SVG и добавить его на страницу html:
 
-<div class="note">
-  <strong>Примечание:</strong> 
-  Это блок текста "Примечание" для вызова. 
-  Этот блок обозначает общее примечание. 
-</div>
+var draw = SVG().addTo('body').size(300, 300)
+var rect = draw.rect(100, 100).attr({ fill: '#f06' })
 
 <hr>
 
