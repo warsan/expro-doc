@@ -134,7 +134,7 @@ var draw = SVG()
 
 // получить прямоугольник из DOM
 var rect = SVG('#myRectId')
-// or
+// или
 var rect = SVG('rect')
 // any css selector will do
 var path = SVG('#group1 path.myClass')
