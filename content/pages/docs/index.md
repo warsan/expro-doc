@@ -18,7 +18,7 @@ seo:
     - name: 'twitter:title'
       value: Welcome to Libris
     - name: 'twitter:description'
-      value: This is the documentation page
+      value: Это страница документации
 layout: docs
 ---
 > Примечание переводчика: в данной справке множество ссылок, которые выглядят вот так: 
