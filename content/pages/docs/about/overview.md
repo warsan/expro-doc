@@ -49,7 +49,7 @@ layout: docs
 </html>
 ```
 Или просто импортируйте svg.js в свое приложение javascript:  
-``` js
+```js
 import { SVG } from '@svgdotjs/svg.js'
 ```
 
