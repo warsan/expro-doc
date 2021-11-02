@@ -22,7 +22,7 @@ seo:
 layout: docs
 ---
 
-<div class="note">
+
 <strong>Примечание переводчика:</strong> 
 В данной справке множество ссылок, которые выглядят вот так: 
  [ссылка](https://customizer.github.io/svg.js-ru/overview.htm#).
