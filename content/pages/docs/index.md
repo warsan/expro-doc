@@ -20,7 +20,7 @@ seo:
     - name: 'twitter:description'
       value: Это страница документации
 layout: docs
-weight: 3
+weight: 0
 ---
 
 <strong>Примечание переводчика:</strong> 
