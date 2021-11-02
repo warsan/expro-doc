@@ -67,7 +67,7 @@ var draw = SVG('drawing')
 
 <a href="extending.htm" onmouseover="show('Расширение')" onmouseout="hide()"> безболезненное расширение</a> благодаря модульной структуре
 доступны различные <a href="plugins.htm" onmouseover="show('Плагины')" onmouseout="hide()">полезные плагины</a>  
-унифицированный API между типами форм с <a href="/docs/3.0/manipulating/#move"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">перемещением</font></font></a> (move), размером (size), центром (center), ...  
+унифицированный API между типами форм с <a href="/docs/3.0/manipulating/#move"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">перемещением</a> (move), размером (size), центром (center), ...  
 привязка событий к элементам  
 полная поддержка масок непрозрачности и обтравочных контуров  
 текстовые пути , даже анимированные
