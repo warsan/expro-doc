@@ -111,7 +111,7 @@ SVG.on(document, 'DOMContentLoaded', function() {
 ## Чистый SVG
 
 SVG.js также работает вне HTML DOM, внутри документа SVG, например:
-
+```
 <?xml version="1.0" encoding="utf-8" ?>
 <svg id="drawing" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" >
   <script type="text/javascript" xlink:href="svg.min.js"></script>
