@@ -21,7 +21,7 @@
                 "has_subnav": true,
                 "subnav_links": [
                     {
-                        "label": "lorem-ipsum",
+                        "label": "Y",
                         "url": "Наследственный стек - это: SVG.Base > SVG.EventTarget > SVG.Dom > SVG.Element > SVG.Container.",
                         "style": "link",
                         "icon_class": "dev",
