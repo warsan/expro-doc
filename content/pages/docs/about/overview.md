@@ -46,7 +46,7 @@ layout: docs
 </head>
 <body>
     
-    </body>
+</body>
     </html>
 ```
 ## Вызовы
