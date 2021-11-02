@@ -22,7 +22,7 @@
                 "subnav_links": [
                     {
                         "label": "Новая страница",
-                        "url": "/about/container -elements",
+                        "url": "//about/container -elements",
                         "style": "link",
                         "icon_class": "dev",
                         "new_window": false,
