@@ -61,7 +61,7 @@ sections:
     type: section_content
     title: Секция без изображения
     content: >-
-      Без картинок и без фото, самовыражением, Трудно выжить полиглоту . Vestibulum imperdiet nunc bibendum
+      Без картинок и без фото, самовыражением, Трудно выжить полиглоту —. Vestibulum imperdiet nunc bibendum
       consectetur lobortis.
     actions:
       - label: Приступить к работе
