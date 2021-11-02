@@ -127,7 +127,23 @@ SVG.js также работает вне HTML DOM, внутри докумен�
 
 ## Функция SVG ()
 
+Эта функция не только создает новые документы, но также может извлекать объекты svg.js из dom или создавать новые из фрагмента svg:
 
+// new document
+var draw = SVG()
+
+// get rect from dom
+var rect = SVG('#myRectId')
+// or
+var rect = SVG('rect')
+// any css selector will do
+var path = SVG('#group1 path.myClass')
+
+// create new object from fragment
+var circle = SVG('<circle>')
+
+// convert node to svg.js object
+var obj = SVG(node)
 
 <hr>
 
