@@ -5,7 +5,7 @@ excerpt: >-
   использовать.
 seo:
   title: Начало работы
-  description: This is the getting started page
+  description: Это страница начала работы
   extra:
     - name: 'og:type'
       value: website
