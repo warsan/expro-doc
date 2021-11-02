@@ -23,6 +23,7 @@ seo:
 layout: docs
 ---
 ## Npm
+
 ```
 npm install @svgdotjs/svg.js
 ```
