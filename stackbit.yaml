@@ -440,7 +440,7 @@ models:
         description: Подзаголовок раздела
       - type: enum
         name: col_number
-        label: Columns
+        label: Колонки
         description: Количество разделов документации в строке
         options:
           - two
