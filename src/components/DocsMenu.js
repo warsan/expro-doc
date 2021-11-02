@@ -79,7 +79,7 @@ export default class DocsMenu extends React.Component {
                 {!_.isEmpty(docsSectionChildPages) && (
                     <React.Fragment>
                         <button className="docs-submenu-toggle" onClick={this.handleDocsSubMenuToggle.bind(this)}>
-                            <span className="screen-reader-text">Submenu</span>
+                            <span className="screen-reader-text">Подменю</span>
                             <span className="icon-angle-right" aria-hidden="true" />
                         </button>
                         <ul className="docs-submenu">
