@@ -22,6 +22,7 @@ seo:
       value: This is the installation page
 layout: docs
 ---
+
 ## Npm
 
 ```
