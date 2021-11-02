@@ -136,7 +136,7 @@ var draw = SVG()
 var rect = SVG('#myRectId')
 // или
 var rect = SVG('rect')
-// any css selector will do
+// подойдет любой селектор css
 var path = SVG('#group1 path.myClass')
 
 // create new object from fragment
