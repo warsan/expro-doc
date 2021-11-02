@@ -11,7 +11,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Getting Started
+      value: Начало работы
       keyName: property
     - name: 'og:description'
       value: Это страница начала работы
