@@ -75,5 +75,5 @@ var draw = SVG('drawing')
 полная поддержка <a href="/docs/3.0/elements/#svg-mask">масок</a> непрозрачности и <a href="/docs/3.0/elements/#svg-clippath">обтравочных контуров</a>  
 <a href="/docs/3.0/elements/#svg-textpath">текстовые пути</a>, даже анимированные <a href="/docs/3.0/parents/#svg-g">группы</a> элементов  
 динамические <a href="/docs/3.0/elements/#svg-gradient">градиенты</a> и <a href="/docs/3.0/elements/#svg-pattern">узоры</a>  
-полная документация (котору сейчас вы и смотрите :-)
+полная документация (которую сейчас вы и смотрите :-)
 </div>
