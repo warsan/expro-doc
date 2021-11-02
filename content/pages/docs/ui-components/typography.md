@@ -28,7 +28,7 @@ layout: docs
   Более подробное объяснение есть в разделе <strong>Начало работы</strong>.
 </div>
 
-**Это абзац**. Это всем абзацам абзац. [Вот ссылка](https://www.stackbit.com/), которую выслал Джек. Вот синица, которая. <mark>Марк Шнейдер был маркшейдер</mark>. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
+**Это абзац**. Это всем абзацам абзац. [Вот ссылка](https://www.stackbit.com/), которую выслал Джек. Вот синица, которая . <mark>Марк Шнейдер был маркшейдер</mark>. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
 
 ## Это H2
 
