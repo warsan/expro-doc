@@ -1,7 +1,7 @@
 ---
 title: SVG.js
 seo:
-  title: Welcome to Libris
+  title: Добро пожаловать в Libris
   description: Это страница документации
   extra:
     - name: 'og:type'
