@@ -79,7 +79,7 @@ var rect = draw.rect(100, 100).attr({ fill: '#f06' })
 
 Вы можете передать любой селектор CSS `addTo` или просто узел.
 
-``` js
+```js
 <body>
   <svg xmlns="http://www.w3.org/2000/svg" version="1.1" 
        xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300">
