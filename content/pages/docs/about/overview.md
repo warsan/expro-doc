@@ -31,7 +31,7 @@ layout: docs
 Проект перевода на  <a href="https://github.com/customizer/svg.js-ru">github.com</a>.
 </div>
 <hr>
-## Начаk
+## Нача
 
 ## Вызовы
 
