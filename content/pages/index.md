@@ -102,7 +102,7 @@ sections:
         style: primary
 seo:
   title: Stackbit Libris Theme
-  description: The preview of the Libris theme
+  description: Предварительный просмотр темы Libris
   extra:
     - name: 'og:type'
       value: website
