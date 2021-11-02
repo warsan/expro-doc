@@ -4,7 +4,7 @@ excerpt: >-
   В этом разделе вы найдёте основную информацию о Libris и о том, как его
   использовать.
 seo:
-  title: Getting Started
+  title: Начало работы
   description: This is the getting started page
   extra:
     - name: 'og:type'
