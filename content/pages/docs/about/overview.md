@@ -76,6 +76,7 @@ import { SVG, extend as SVGextend, Element as SVGElement } from '@svgdotjs/svg.j
 var draw = SVG().addTo('body').size(300, 300)
 var rect = draw.rect(100, 100).attr({ fill: '#f06' })
 ```
+
 Вы можете передать любой селектор CSS addToили просто узел.
 <hr>
 
