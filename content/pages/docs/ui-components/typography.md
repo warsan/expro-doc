@@ -25,7 +25,7 @@ layout: docs
 
 <div class="note">
   <strong>Примечание:</strong> 
-  Это демонстрационный контент, предназначенный только для демонстрации. Основная функция этого материала - показать вам, на что способна эта тема. Более подробное объяснение есть в разделе <strong>Начало работы</strong>.
+  Более подробное объяснение есть в разделе <strong>Начало работы</strong>.
 </div>
 
 **Это абзац**. Pellentesque habitant morbi *tristique senectus et netus et malesuada* fames ac turpis egestas. Vestibulum [вот ссылка](https://www.stackbit.com/), feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit <mark>amet est et sapien ullamcorper</mark> pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
