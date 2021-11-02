@@ -37,6 +37,7 @@ yarn add @svgdotjs/svg.js
 ## CDN.js / jsDelivr
 
 ```
+```
 
 <div class="note">
   <strong>Примечание:</strong> 
