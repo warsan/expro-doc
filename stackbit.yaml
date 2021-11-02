@@ -368,7 +368,7 @@ models:
         description: Текст alt изображения раздела
       - type: enum
         name: image_position
-        label: Image Position
+        label: Позиция картинки
         description: Положение секционного изображения
         options:
           - left
