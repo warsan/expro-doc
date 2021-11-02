@@ -22,7 +22,7 @@ seo:
       value: This is the installation page
 layout: docs
 ---
-Npm
+## Npm
 ```
 npm install @svgdotjs/svg.js
 ```
