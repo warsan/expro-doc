@@ -100,7 +100,9 @@ var draw = SVG().addTo('#someId').size('100%', '100%')
 Многим это может показаться очевидным, но все же стоит упомянуть. Если вы включаете свои js-файлы в заголовок документа, дождитесь загрузки DOM:
 
 ```
-
+SVG.on(document, 'DOMContentLoaded', function() {
+  var draw = SVG().addTo('body')
+})
 <hr>
 
 ## Кодовые блоки
