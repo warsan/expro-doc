@@ -22,7 +22,7 @@
                 "subnav_links": [
                     {
                         "label": "lorem-ipsum",
-                        "url": "#Класс SVG.Container является базовой оберткой для всех элементов, которые могут содержать другие элементы.  Наследственный стек - это: SVG.Base > SVG.EventTarget > SVG.Dom > SVG.Element > SVG.Container.",
+                        "url": "Класс SVG.Container является базовой оберткой для всех элементов, которые могут содержать другие элементы.  Наследственный стек - это: SVG.Base > SVG.EventTarget > SVG.Dom > SVG.Element > SVG.Container.",
                         "style": "link",
                         "icon_class": "dev",
                         "new_window": false,
