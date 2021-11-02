@@ -139,7 +139,7 @@ var rect = SVG('rect')
 // подойдет любой селектор css
 var path = SVG('#group1 path.myClass')
 
-// create new object from fragment
+// создать новый объект из фрагмента
 var circle = SVG('<circle>')
 
 // convert node to svg.js object
