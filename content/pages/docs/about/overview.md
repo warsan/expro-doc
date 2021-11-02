@@ -103,6 +103,8 @@ var draw = SVG().addTo('#someId').size('100%', '100%')
 SVG.on(document, 'DOMContentLoaded', function() {
   var draw = SVG().addTo('body')
 })
+```
+
 
 <hr>
 
