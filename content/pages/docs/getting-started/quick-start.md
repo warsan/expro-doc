@@ -21,7 +21,9 @@ seo:
     - name: 'twitter:description'
       value: This is the quick start page
 layout: docs
----<div class="note">
+---
+
+<div class="note">
   <strong>Примечание:</strong> 
   Это демонстрационный контент, предназначенный только для демонстрации. Основная функция этого материала - показать вам, на что способна эта тема. Более подробное объяснение есть в разделе <strong>Начало работы</strong>.
 </div>
