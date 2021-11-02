@@ -19,7 +19,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Getting Started
+      value: Начало работы
     - name: 'twitter:description'
       value: Это страница начала работы
 layout: docs
