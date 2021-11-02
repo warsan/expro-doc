@@ -61,7 +61,7 @@ sections:
     type: section_content
     title: Секция без изображения
     content: >-
-      Б Sed nulla nibh, dapibus sit amet
+      Без карти Sed nulla nibh, dapibus sit amet
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
       consectetur lobortis.
     actions:
