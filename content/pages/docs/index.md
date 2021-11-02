@@ -28,6 +28,7 @@ layout: docs
 > Проект перевода на 
 > [github.com](https://github.com/customizer/svg.js-ru) .
 
+
 ***
 
 **svg.js** - это легковесная JavaScript библиотека для управления и анимации векторной графики в формате SVG.
