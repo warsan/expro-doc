@@ -11,7 +11,7 @@ seo:
       value: Добро пожаловать в Libris
       keyName: property
     - name: 'og:description'
-      value: This is the documentation page
+      value: Это страница документации
       keyName: property
     - name: 'twitter:card'
       value: summary
