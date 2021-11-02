@@ -60,7 +60,7 @@ import { SVG } from '@svgdotjs/svg.js'
 
 Скопируйте код и измените эти блоки в соответствии с вашими потребностями.
 
-``` html
+``` ht
 <div class="important">
   <strong>Важно:</strong> 
   Это блок текста "Важно" для вызова.
