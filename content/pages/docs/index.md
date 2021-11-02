@@ -67,11 +67,10 @@ var draw = SVG('drawing')
 
 <a href="extending.htm" onmouseover="show('Расширение')" onmouseout="hide()"> безболезненное расширение</a> благодаря модульной структуре
 доступны различные <a href="plugins.htm" onmouseover="show('Плагины')" onmouseout="hide()">полезные плагины</a>  
-унифицированный API между типами форм с перемещением (move), размером (size), центром (center), ... unified api between shape types with (link: /manipulating/#move text: move), (link: /manipulating/#resizing text: size), (link: /manipulating/#center text: center), ...
-(link: /events/ text: binding events) to elements
-full support for opacity (link: /elements/#svg-mask text: masks) and (link: /elements/#svg-clippath text: clipping paths)
-(link: /elements/#svg-textpath text: text paths), even animated
-element (link: /parents/#svg-g text: groups)
-dynamic (link: /elements/#svg-gradient text: gradients) and (link: /elements/#svg-pattern text: patterns)
+унифицированный API между типами форм с перемещением (move), размером (size), центром (center), ... привязка событий к элементам
+полная поддержка масок непрозрачности и обтравочных контуров
+текстовые пути , даже анимированные
+группы элементов
+динамические градиенты и узоры
 полная документация (кстати, сейчас вы смотрите её :-)
 </div>
