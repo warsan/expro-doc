@@ -73,3 +73,4 @@ full support for opacity (link: /elements/#svg-mask text: masks) and (link: /ele
 element (link: /parents/#svg-g text: groups)
 dynamic (link: /elements/#svg-gradient text: gradients) and (link: /elements/#svg-pattern text: patterns)
 полная документация (кстати, сейчас вы смотрите её :-)
+<>
