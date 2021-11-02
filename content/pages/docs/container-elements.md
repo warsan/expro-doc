@@ -1,5 +1,6 @@
 ---
 title: Установка
+
 layout: page
 ---
 
