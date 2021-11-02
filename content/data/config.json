@@ -21,7 +21,7 @@
                 "has_subnav": true,
                 "subnav_links": [
                     {
-                        "label": "Y",
+                        "label": "Н",
                         "url": "Наследственный стек - это: SVG.Base > SVG.EventTarget > SVG.Dom > SVG.Element > SVG.Container.",
                         "style": "link",
                         "icon_class": "dev",
