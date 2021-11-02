@@ -145,6 +145,9 @@ var circle = SVG('<circle>')
 // преобразование node в объект svg.js
 var obj = SVG(node)
 ```
+
+
+
 <hr>
 
 ## Кодовые блоки
