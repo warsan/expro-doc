@@ -14,7 +14,7 @@ seo:
       value: Getting Started
       keyName: property
     - name: 'og:description'
-      value: This is the getting started page
+      value: Это страница начала работы
       keyName: property
     - name: 'twitter:card'
       value: summary
