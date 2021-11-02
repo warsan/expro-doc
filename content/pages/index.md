@@ -63,7 +63,7 @@ sections:
     content: >-
       Без картинок и без фото, с самовыражением,  
       Трудно выжить полиглоту — без изображения.  
-      Vestibulum imperdiet nunc bibendum
+      Публика
       consectetur lobortis.
     actions:
       - label: Приступить к работе
