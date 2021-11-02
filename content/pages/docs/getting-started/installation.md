@@ -38,7 +38,7 @@ yarn add @svgdotjs/svg.js
 
 
 [Скачайте](https://cdnjs.com/libraries/svg.js) последнюю версию с cdnjs.com или прямо с jsdelivr
-```
+
 
 <div class="note">
   <strong>Примечание:</strong> 
