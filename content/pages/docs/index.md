@@ -69,7 +69,7 @@ var draw = SVG('drawing')
 доступны различные <a href="plugins.htm" onmouseover="show('Плагины')" onmouseout="hide()">полезные плагины</a>  
 унифицированный API между типами форм с <a href="/docs/3.0/manipulating/#move">перемещением</a> (move), <a href="/docs/3.0/manipulating/#resizing">размером</a> (size), <a href="/docs/3.0/manipulating/#center">центром</a> (center), ...  
 <a href="/docs/3.0/events">привязка событий</a> к элементам  
-полная поддержка <a href="/docs/3.0/elements/#svg-mask"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">масок</font></font></a> непрозрачности и обтравочных контуров  
+полная поддержка <a href="/docs/3.0/elements/#svg-mask">масок</font></font></a> непрозрачности и обтравочных контуров  
 текстовые пути , даже анимированные
 группы элементов  
 динамические градиенты и узоры  
