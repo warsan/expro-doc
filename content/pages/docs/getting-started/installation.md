@@ -36,7 +36,7 @@ yarn add @svgdotjs/svg.js
 
 ## CDN.js / jsDelivr
 
-[Скачайте](https://cdnjs.com/libraries/svg.js) последнюю версию с { или прямо с jsdelivr
+[Скачайте](https://cdnjs.com/libraries/svg.js) последнюю версию с  или прямо с jsdelivr
 
 
 <div class="note">
