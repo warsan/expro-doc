@@ -21,7 +21,7 @@ seo:
     - name: 'twitter:description'
       value: This is the overview page
 layout: docs
---- ht
+--- htm
 <div class="note">
   <strong>Примечание переводчика:</strong> 
    в данной справке множество ссылок, которые выглядят вот так: 
