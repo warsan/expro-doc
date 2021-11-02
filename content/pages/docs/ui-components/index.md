@@ -6,7 +6,7 @@ excerpt: >-
   Markdown с небольшим количеством дополнительных классов CSS.
 seo:
   title: UI Components
-  description: This is the UI components page
+  description: Это страница компонентов пользовательского интерфейса
   extra:
     - name: 'og:type'
       value: website
