@@ -18,7 +18,7 @@
                 "label": "Docs",
                 "url": "/docs",
                 "style": "link",
-                "has_subnav": false,
+                "has_subnav": true,
                 "subnav_links": [
                     {
                         "label": "lorem-ipsum",
