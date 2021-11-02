@@ -59,4 +59,4 @@ var draw = SVG('drawing')
 
 Это всего лишь две строки кода вместо десяти! И намного меньше повторений.
 
-
+<script async src="//jsfiddle.net/wout/7wL1uv8n/embed/result/"></script>
