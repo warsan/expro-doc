@@ -109,7 +109,7 @@ if (condition) {
 ```
 </pre>
 
-``` js
+```js
 if (condition) {
   код для выполнения, если условие истинно
 } else {
