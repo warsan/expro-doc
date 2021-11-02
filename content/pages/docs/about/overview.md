@@ -137,7 +137,6 @@ var rect = SVG('#myRectId')
 var rect = SVG('rect')
 // подойдет любой селектор css
 var path = SVG('#group1 path.myClass')
-
 // создать новый объект из фрагмента
 var circle = SVG('<circle>')
 
