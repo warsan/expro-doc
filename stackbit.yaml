@@ -433,7 +433,7 @@ models:
       - type: string
         name: section_id
         label: Section ID
-        description: A unique identifier of the section, must not contain whitespace
+        description: Уникальный идентификатор раздела, не должен содержать пробелы
       - type: string
         name: subtitle
         label: Субтитр
