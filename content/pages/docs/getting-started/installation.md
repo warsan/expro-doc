@@ -34,7 +34,7 @@ npm install @svgdotjs/svg.js
 yarn add @svgdotjs/svg.js
 ```
 
-
+## 
 
 <div class="note">
   <strong>Примечание:</strong> 
