@@ -61,7 +61,7 @@ sections:
     type: section_content
     title: Секция без изображения
     content: >-
-      Без картинок и без фото, самовыражения, Sed nulla nibh, dapibus sit amet
+      Без картинок и без фото, самовыражением, Sed nulla nibh, dapibus sit amet
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
       consectetur lobortis.
     actions:
