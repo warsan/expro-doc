@@ -68,12 +68,7 @@ import { SVG, extend as SVGextend, Element as SVGElement } from '@svgdotjs/svg.j
 
 ## Создать документ SVG
 
-<div class="important">
-  <strong>Важно:</strong> 
-  Это блок текста "Важно" для вызова. 
-  Этот блок обозначает предупреждение или предостережение.
-  Используйте его для важного сообщения. 
-</div>
+Затем используйте SVG()функцию, чтобы создать документ SVG и добавить его на страницу html:
 
 <div class="note">
   <strong>Примечание:</strong> 
