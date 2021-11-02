@@ -70,7 +70,7 @@ var draw = SVG('drawing')
 унифицированный API между типами форм с <a href="/docs/3.0/manipulating/#move">перемещением</a> (move), <a href="/docs/3.0/manipulating/#resizing">размером</a> (size), <a href="/docs/3.0/manipulating/#center">центром</a> (center), ...  
 <a href="/docs/3.0/events">привязка событий</a> к элементам  
 полная поддержка <a href="/docs/3.0/elements/#svg-mask">масок</a> непрозрачности и <a href="/docs/3.0/elements/#svg-clippath">обтравочных контуров</a>  
-<a href="/docs/3.0/elements/#svg-textpath">текстовые пути</a>, даже анимированные <a href="/docs/3.0/parents/#svg-g">группы</font></a> элементов  
+<a href="/docs/3.0/elements/#svg-textpath">текстовые пути</a>, даже анимированные <a href="/docs/3.0/parents/#svg-g">группы</a> элементов  
 динамические градиенты и узоры  
 полная документация (кстати, сейчас вы смотрите её :-)
 </div>
