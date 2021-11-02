@@ -75,7 +75,8 @@ import { SVG } from '@svgdotjs/svg.js'
   <strong>Примечание:</strong> 
   Это блок текста "Примечание" для вызова. 
   Этот блок обозначает общее пПримечание. Все свойства, которые ранее были доступны для глобального объекта SVG, теперь необходимо импортировать, см. Пример ниже:
-</div>```
+</div>
+```
 import { SVG, extend as SVGextend, Element as SVGElement } from '@svgdotjs/svg.js'
 ```
 
