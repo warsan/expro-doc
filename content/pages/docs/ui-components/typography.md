@@ -29,7 +29,8 @@ layout: docs
 </div>
 
 **Это абзац**. Это всем абзацам абзац.  
-[Вот ссылка](https://www.stackbit.com/), в которую выслал нас Джек. Вот птица, которая каверзно в ссылке томится, а Джек над которой всенощно глумится, покуда не выписан чек. <mark>Марк Шнейдер был маркшейдер</mark>. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
+[Вот ссылка](https://www.stackbit.com/), в которую выслал нас Джек.  
+Вот птица, которая каверзно в ссылке томится, а Джек над которой всенощно глумится, покуда не выписан чек. <mark>Марк Шнейдер был маркшейдер</mark>. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
 
 ## Это H2
 
