@@ -61,7 +61,7 @@ sections:
     type: section_content
     title: Секция без изображения
     content: >-
-      Без картин Sed nulla nibh, dapibus sit amet
+      Без картинок и  Sed nulla nibh, dapibus sit amet
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
       consectetur lobortis.
     actions:
