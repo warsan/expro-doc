@@ -48,6 +48,7 @@ layout: docs
 </body>
 </html>
 ```
+
 Или просто импортируйте svg.js в свое приложение javascript:  
 ```js
 import { SVG } from '@svgdotjs/svg.js'
