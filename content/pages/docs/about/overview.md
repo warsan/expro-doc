@@ -70,7 +70,6 @@ import { SVG } from '@svgdotjs/svg.js'
 </div>
 ```
 
- html
 <div class="note">
   <strong>Примечание:</strong> 
   Это блок текста "Примечание" для вызова. 
