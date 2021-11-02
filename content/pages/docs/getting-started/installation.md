@@ -38,7 +38,7 @@ yarn add @svgdotjs/svg.js
 
 [Скачайте](https://cdnjs.com/libraries/svg.js) последнюю версию с [cdnjs.com](https://cdnjs.com/libraries/svg.js) или прямо с [jsdelivr](https://cdn.jsdelivr.net/npm/@svgdotjs/svg.js@latest/dist/svg.min.js)
 
-## 
+## Скачать
 <div class="note">
   <strong>Примечание:</strong> 
   Это демонстрационный контент, предназначенный только для демонстрации. Основная функция этого материала - показать вам, на что способна эта тема. Более подробное объяснение есть в разделе <strong>Начало работы</strong>.
