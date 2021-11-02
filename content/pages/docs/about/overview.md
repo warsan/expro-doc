@@ -51,7 +51,7 @@ layout: docs
 ```
 Или просто импортируйте svg.js в свое приложение javascript:  
 ```
-
+import { SVG } from '@svgdotjs/svg.js'
 ```
 ## Вызовы
 
