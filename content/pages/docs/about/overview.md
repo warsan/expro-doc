@@ -49,7 +49,7 @@ layout: docs
 </script>
 </head>
 <body>
-...
+
 </body>
 </html>
 ```
