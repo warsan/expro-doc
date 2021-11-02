@@ -441,7 +441,7 @@ models:
       - type: enum
         name: col_number
         label: Columns
-        description: The number of documentation sections in a row
+        description: Количество разделов документации в строке
         options:
           - two
           - three
