@@ -38,7 +38,7 @@ layout: docs
 
 Создайте базовую разметку Html и включите скрипт svg.js:  
  ```
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
     <head>
     <title>SVG.js</title>
