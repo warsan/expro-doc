@@ -122,7 +122,7 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Libris Theme
     - name: 'twitter:description'
-      value: The preview of the Libris theme
+      value: Предпросмотр темы Libris
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
