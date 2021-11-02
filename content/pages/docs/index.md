@@ -64,8 +64,7 @@ var draw = SVG('drawing')
 И кое-что ещё...
 <div class="note">
 <a href="animating.htm" onmouseover="show('Анимация')" onmouseout="hide()">анимация</a> по размеру, положению, преобразованиям, цвету, ...  
-<a href="extending.htm" onmouseover="show('Расширение')" onmouseout="hide()">
-безболезненное расширение</a> благодаря модульной структуре
+<a href="extending.htm" onmouseover="show('Расширение')" onmouseout="hide()"> безболезненное расширение</a> благодаря модульной структуре
 доступны различные полезные плагины
 унифицированный API между типами форм с перемещением (move), размером (size), центром (center), ... unified api between shape types with (link: /manipulating/#move text: move), (link: /manipulating/#resizing text: size), (link: /manipulating/#center text: center), ...
 (link: /events/ text: binding events) to elements
