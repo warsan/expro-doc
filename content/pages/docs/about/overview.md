@@ -146,7 +146,7 @@ var obj = SVG(node)
 ## Детская площадка
 
 Вот базовая настройка. Присутствует все, чтобы начать возиться.
-<>
+<d>
 <script async src="//jsfiddle.net/Fuzzy/nc15b2tg/embed/js,result/"></script>
 </div>
 <hr>
