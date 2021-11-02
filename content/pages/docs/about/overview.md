@@ -78,7 +78,7 @@ import { SVG } from '@svgdotjs/svg.js'
 import { SVG, extend as SVGextend, Element as SVGElement } from '@svgdotjs/svg.js'
 ```
 
-### Живой пример
+## Создать документ SVG
 
 <div class="important">
   <strong>Важно:</strong> 
