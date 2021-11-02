@@ -68,7 +68,7 @@ import { SVG } from '@svgdotjs/svg.js'
 import { SVG, extend as SVGextend, Element as SVGElement } from '@svgdotjs/svg.js'
 ```
 
-## Создать документ SVG
+### Создать документ SVG
 
 Затем используйте SVG()функцию, чтобы создать документ SVG и добавить его на страницу html:
 
