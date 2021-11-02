@@ -75,7 +75,7 @@ import { SVG } from '@svgdotjs/svg.js'
   Все свойства, которые ранее были доступны для глобального объекта SVG, теперь необходимо импортировать, см. Пример ниже:
 </div>
 
-```
+```js
 import { SVG, extend as SVGextend, Element as SVGElement } from '@svgdotjs/svg.js'
 ```
 
