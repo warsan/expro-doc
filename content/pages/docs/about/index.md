@@ -24,6 +24,7 @@ seo:
       value: This is the about page
 layout: docs
 ---
+
 <a href="https://ru.wikipedia.org/wiki/SVG" target="_blank" onmouseover="show('SVG (от англ. Scalable Vector Graphics — масштабируемая векторная графика)<br>— язык разметки масштабируемой векторной графики, созданный Консорциумом<br>Всемирной паутины (W3C) и входящий в подмножество расширяемого языка<br>разметки XML, предназначен для описания двумерной векторной и смешанной<br>векторно/растровой графики в формате XML.')" onmouseout="hide()">SVG</a>
 
 ***
