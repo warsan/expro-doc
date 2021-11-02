@@ -105,7 +105,7 @@ SVG.on(document, 'DOMContentLoaded', function() {
 })
 ```
 
-
+Это не проблема, если вы включите js внизу.
 <hr>
 
 ## Кодовые блоки
