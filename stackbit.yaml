@@ -196,8 +196,7 @@ models:
           документации".
       - type: model
         name: seo
-        models:
-          - stackbit_page_meta
+        models: []
         label: Seo
       - name: ''
         type: string
