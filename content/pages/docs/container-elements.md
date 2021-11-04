@@ -19,7 +19,7 @@ excerpt: >-
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Welcome to Libris
+      value: Новая страница
     - name: 'twitter:description'
       value: Новая страница
 layout: docs
