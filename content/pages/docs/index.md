@@ -42,7 +42,7 @@ SVG.js экономный
 SVG.js легковесен. Цифры не лгут, вот он в сравнении с конкурентами:  
     <div><script async src="//jsfiddle.net/warsand/a9qrsj3w/embed/result/"></script></div>  
 
-<div class="note"><strong>Примечание: Чем меньше — тем лучше. </div> 
+<div class="note"><strong>Примечание:<strong> Чем меньше — тем лучше. </div> 
 Помните, SVG.js делает всё то же самое, но почти вполовину меньшим кодом!  
 SVG.js быстрый.  
 SVG.js работает очень быстро. Конечно, он не быстрее vanilla js, но намного быстрее конкурентов:  
