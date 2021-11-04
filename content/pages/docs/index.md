@@ -79,7 +79,7 @@ var draw = SVG('drawing')
 <script async src="//jsfiddle.net/wout/7wL1uv8n/embed/result/"></script>
 
 
-<div class="note"><strong>И кое-что ещё$</strong>
+<div class="note"><strong>И кое-что ещё:</strong>
  <a href="animating.htm" onmouseover="show('Анимация')" onmouseout="hide()">анимация</a> по размеру, положению, преобразованиям, цвету, ...  
 
 <a href="extending.htm" onmouseover="show('Расширение')" onmouseout="hide()"> безболезненное расширение</a> благодаря модульной структуре
