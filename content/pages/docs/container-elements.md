@@ -21,7 +21,7 @@ excerpt: >-
     - name: 'twitter:title'
       value: Welcome to Libris
     - name: 'twitter:description'
-      value: Это страница документации
+      value: Новая страница
 layout: docs
 ---
 
