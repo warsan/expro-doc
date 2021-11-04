@@ -3,7 +3,25 @@ title: Новая страница
 excerpt: >-
   В этом разделе вы найдёте основную информацию о svg.js и о том, как его
   использовать.
-  
+  seo:
+  title: Добро пожаловать в Libris
+  description: Это страница документации
+  extra:
+    - name: 'og:type'
+      value: website
+      keyName: property
+    - name: 'og:title'
+      value: Добро пожаловать в Libris
+      keyName: property
+    - name: 'og:description'
+      value: Это страница документации
+      keyName: property
+    - name: 'twitter:card'
+      value: summary
+    - name: 'twitter:title'
+      value: Welcome to Libris
+    - name: 'twitter:description'
+      value: Это страница документации
 layout: docs
 ---
 
