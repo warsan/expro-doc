@@ -44,7 +44,8 @@ SVG.js легковесен. Цифры не лгут, вот он в сравн
     <script async src="//jsfiddle.net/warsand/a9qrsj3w/embed/result/"></script>
 
 <div class="note">
-<strong>Примечание:</strong> Чем меньше — тем лучше. 
+<strong>Примечание:</strong> 
+Чем меньше — тем лучше. 
 </div> 
 Помните, SVG.js делает всё то же самое, но почти вполовину меньшим кодом!  
 SVG.js быстрый.  
