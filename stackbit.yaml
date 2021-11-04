@@ -196,7 +196,8 @@ models:
           документации".
       - type: model
         name: seo
-        models: []
+        models:
+          - action_menu
         label: Seo
       - name: ''
         type: string
