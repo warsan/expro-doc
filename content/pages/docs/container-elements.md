@@ -11,7 +11,7 @@ excerpt: >-
       value: website
       keyName: property
     - name: 'og:title'
-      value: Добро пожаловать в Libris
+      value: Новая страница
       keyName: property
     - name: 'og:description'
       value: Это страница документации
