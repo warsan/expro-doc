@@ -14,7 +14,7 @@ excerpt: >-
       value: Новая страница
       keyName: property
     - name: 'og:description'
-      value: Это страница документации
+      value: Новая страница
       keyName: property
     - name: 'twitter:card'
       value: summary
