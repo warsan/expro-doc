@@ -80,6 +80,7 @@ var draw = SVG('drawing')
 
 
 <div class="note"><strong>И кое-что ещё:</strong>
+
  <a href="animating.htm" onmouseover="show('Анимация')" onmouseout="hide()">анимация</a> по размеру, положению, преобразованиям, цвету, ...  
 
 <a href="extending.htm" onmouseover="show('Расширение')" onmouseout="hide()"> безболезненное расширение</a> благодаря модульной структуре
