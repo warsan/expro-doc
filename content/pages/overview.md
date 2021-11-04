@@ -19,7 +19,7 @@ sections:
         url: /docs/getting-started
         style: primary
 seo:
-  title: Overview
+  title: Обзор
   description: Это страница обзора
   extra:
     - name: 'og:type'
