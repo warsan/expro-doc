@@ -43,7 +43,7 @@ SVG.js легковесен. Цифры не лгут, вот он в сравн
     <div><script async src="//jsfiddle.net/warsand/a9qrsj3w/embed/result/"></script></div>  
 
 Примечание: Чем меньше тем лучше.  
-Помните, SVG.js делает все то же самое, но почти вполовину меньшим кодом!  
+Помните, SVG.js делает вс то же самое, но почти вполовину меньшим кодом!  
 SVG.js быстрый.  
 SVG.js работает очень быстро. Конечно, он не быстрее vanilla js, но намного быстрее конкурентов:  
     <script async src="//jsfiddle.net/wout/xutwzmg5/embed/result/"></script>  
