@@ -78,7 +78,7 @@ var draw = SVG('drawing')
 
 <script async src="//jsfiddle.net/wout/7wL1uv8n/embed/result/"></script>
 
-<strong>И кое-что ещё...</s>
+<strong>И кое-что ещё...</str>
 <div class="note">
  <a href="animating.htm" onmouseover="show('Анимация')" onmouseout="hide()">анимация</a> по размеру, положению, преобразованиям, цвету, ...  
 
