@@ -1,5 +1,5 @@
 ---
-title: Обзор s
+title: Обзор svg
 sections:
   - section_id: hero
     type: section_hero
