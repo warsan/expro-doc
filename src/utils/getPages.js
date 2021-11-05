@@ -14,7 +14,7 @@ import _ from 'lodash';
  *   {'__metadata.urlPath': '/posts/world'}
  * ]
  *
- * getPages(pages, /posts') =>[
+ * getPages(pages, /posts') => [
  *
  *   {'__metadata.urlPath': '/posts/hello'},
  *   {'__metadata.urlPath': '/posts/world'}
