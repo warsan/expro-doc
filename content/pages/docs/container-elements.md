@@ -22,7 +22,7 @@ excerpt: >-
 layout: docs
 seo:
   title: 'Новая страница'
-  description: ''
+  description: 'Проверка создания страниц'
   robots: []
   extra: []
 ---
