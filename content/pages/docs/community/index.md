@@ -21,7 +21,7 @@ seo:
     - name: 'twitter:title'
       value: Where To Get Support
     - name: 'twitter:description'
-      value: This is the community page
+      value: Это страница сообщества
 layout: docs
 ---
 
