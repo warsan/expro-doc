@@ -10,7 +10,7 @@ sections:
   - section_id: docs-overview
     type: section_docs
     col_number: three
-    title: Л
+    title: Лозунг
   - section_id: cta
     type: section_cta
     title: Призыв к действию
