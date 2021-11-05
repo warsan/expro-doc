@@ -6,7 +6,7 @@
         "title": "Либрис",
         "logo_img": "images/logo.svg",
         "logo_img_alt": "Libris logo",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "Дом",
