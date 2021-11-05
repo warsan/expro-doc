@@ -202,6 +202,7 @@ models:
       - name: link
         type: url
         label: Ссылочка
+        description: Проверка
     labelField: title
   advanced:
     type: page
