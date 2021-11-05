@@ -21,7 +21,7 @@ seo:
     - name: 'twitter:title'
       value: About
     - name: 'twitter:description'
-      value: This is the about page
+      value: Это страница, посвящённая докам
 layout: docs
 ---
 
