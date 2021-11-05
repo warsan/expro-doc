@@ -17,7 +17,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Installation
+      value: Установка
     - name: 'twitter:description'
       value: Это страница установки
 layout: docs
