@@ -209,7 +209,7 @@ models:
       - type: string
         name: title
         label: Шапка
-        description: Название страницы.
+        description: Шапка страницы.
         required: true
       - type: list
         name: sections
