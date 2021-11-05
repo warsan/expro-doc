@@ -5,7 +5,7 @@ excerpt: >-
 seo:
   title: Новая страница
   description: В этом разделе вы найдёте основную информацию о svg.js и о том, как его
-  использовать
+  использовать.
   extra: 
     - name: 'og:type'
       value: website
