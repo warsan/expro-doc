@@ -40,7 +40,7 @@ seo:
     - name: 'twitter:title'
       value: Overview
     - name: 'twitter:description'
-      value: This is the overview page
+      value: Это страница обзора
     - name: 'twitter:image'
       value: images/5.jpg
       relativeUrl: true
