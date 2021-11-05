@@ -14,7 +14,7 @@ seo:
       value: About
       keyName: property
     - name: 'og:description'
-      value: This is the about page
+      value: Это страница, посвящённая докам
       keyName: property
     - name: 'twitter:card'
       value: summary
