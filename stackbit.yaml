@@ -182,6 +182,10 @@ models:
           Заголовок страницы, используемый как в качестве заголовка страницы,
           так и в качестве заголовка навигационного меню
         required: true
+      - name: link
+        type: url
+        label: Ссылочка
+        description: Проверка
       - type: number
         name: weight
         label: Вес
@@ -199,10 +203,6 @@ models:
         models:
           - action_menu
         label: Seo
-      - name: link
-        type: url
-        label: Ссылочка
-        description: Проверка
     labelField: title
   advanced:
     type: page
