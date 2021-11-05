@@ -14,7 +14,7 @@ sections:
     subtitle: Плакат висел во всех цехах
   - section_id: cta
     type: section_cta
-    title: Призыв к действию
+    title: Догоним и перегоним
     subtitle: Это необязательное описание для блока призыва к действию.
     actions:
       - label: Приступить к работе
