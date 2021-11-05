@@ -9,7 +9,7 @@ label: Новая
   использовать
   robots: []
   extra: 
-      - name: 'og:type'
+    - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
