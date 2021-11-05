@@ -21,7 +21,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Typography
+      value: Новая
     - name: 'twitter:description'
       value: Основная информация о svg.js
 ---
