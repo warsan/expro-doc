@@ -23,7 +23,7 @@ seo:
     - name: 'twitter:title'
       value: Typography
     - name: 'twitter:description'
-      value: This is the typography page]
+      value: This is the typography page
 ---
 
 # Родительские элементы
