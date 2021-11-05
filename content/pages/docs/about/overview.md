@@ -1,5 +1,5 @@
 ---
-title: Обзор сайта
+title: 'Обзор сайта '
 weight: 1
 seo:
   title: Overview
@@ -21,7 +21,7 @@ seo:
     - name: 'twitter:description'
       value: This is the overview page
 layout: docs
----  
+---
 <div class="note">
   <strong>Примечание переводчика:</strong> 
    в данной справке множество ссылок, которые выглядят вот так: 
