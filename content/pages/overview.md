@@ -1,5 +1,5 @@
 ---
-title: Обзор 
+title: Обзор s
 sections:
   - section_id: hero
     type: section_hero
