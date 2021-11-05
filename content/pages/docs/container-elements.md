@@ -24,6 +24,7 @@ label: Новая
       value: Новая
     - name: 'twitter:description'
       value: Основная информация о svg.js
+
 ---
 
 # Родительские элементы
