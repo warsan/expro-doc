@@ -19,7 +19,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: About
+      value: О сайте
     - name: 'twitter:description'
       value: Это страница, посвящённая докам
 layout: docs
