@@ -90,7 +90,7 @@ export default class Header extends React.Component {
             <React.Fragment>
                 <button className="submenu-toggle" onClick={this.handleSubMenuToggle.bind(this)}>
                     <span className="icon-angle-right" aria-hidden="true" />
-                    <span className="screen-reader-text">Sub-menu</span>
+                    <span className="screen-reader-text">Подменю</span>
                 </button>
                 <ul className="submenu">
                     {_.map(subNavLinks, (action, index) => {
