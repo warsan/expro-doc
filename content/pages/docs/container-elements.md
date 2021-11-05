@@ -21,7 +21,7 @@ excerpt: >-
       value: Новая страница
 layout: docs
 seo:
-  title: 'Новая'
+  title: 'Новая страница'
   description: ''
   robots: []
   extra: []
