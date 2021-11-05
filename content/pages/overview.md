@@ -3,7 +3,7 @@ title: Обзор svg
 sections:
   - section_id: hero
     type: section_hero
-    title: Обзор г
+    title: Обзор героев
     image: images/5.jpg
     content: |
       Необязательный субтитр
