@@ -4,7 +4,7 @@ excerpt: >-
   Мы будем рады, если вы примете участие в работе сообщества Libris. Узнайте,
   как подключиться.
 seo:
-  title: Where To Get Support
+  title: Где получить поддержку
   description: This is the community page
   extra:
     - name: 'og:type'
