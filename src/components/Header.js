@@ -78,7 +78,7 @@ export default class Header extends React.Component {
                     </div>
                 </nav>
                 <button id="menu-open" className="menu-toggle" ref={this.menuOpenRef} onClick={this.handleMenuToggle.bind(this)}>
-                    <span className="screen-reader-text">Открытое меню</span>
+                    <span className="screen-reader-text">Открыть меню</span>
                     <span className="icon-menu" aria-hidden="true" />
                 </button>
             </React.Fragment>
