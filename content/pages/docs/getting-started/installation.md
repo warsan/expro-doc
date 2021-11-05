@@ -9,7 +9,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Installation
+      value: Установка
       keyName: property
     - name: 'og:description'
       value: Это страница установки
