@@ -3,23 +3,7 @@ title: Новая страница
 excerpt: >-
   В этом разделе вы найдёте основную информацию о svg.js и о том, как его
   использовать. 
-   seo: title: Новая страница description: Это страница
-  документации extra:
-    - name: 'og:type'
-      value: website
-      keyName: property
-    - name: 'og:title'
-      value: Новая страница
-      keyName: property
-    - name: 'og:description'
-      value: Новая страница
-      keyName: property
-    - name: 'twitter:card'
-      value: summary
-    - name: 'twitter:title'
-      value: Новая страница
-    - name: 'twitter:description'
-      value: Новая страница
+   
 layout: docs
 seo:
   title: 'Новая страница'
