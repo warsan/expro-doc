@@ -11,7 +11,8 @@ excerpt: >-
 layout: docs
 seo:
   title: 'Новая страница'
-  description: ''
+  description: 'В этом разделе вы найдёте основную информацию о svg.js и о том, как его
+  использовать'
   robots: []
   extra: []
 ---
