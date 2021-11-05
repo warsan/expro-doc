@@ -21,7 +21,7 @@ excerpt: >-
       value: Новая страница
 layout: docs
 seo:
-  title: ''
+  title: 'Н'
   description: ''
   robots: []
   extra: []
