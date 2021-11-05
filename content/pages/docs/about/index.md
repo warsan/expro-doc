@@ -5,7 +5,7 @@ excerpt: >-
   использовать её для своего проекта.
 seo:
   title: About
-  description: This is the about page
+  description: Это страница, посвященная
   extra:
     - name: 'og:type'
       value: website
