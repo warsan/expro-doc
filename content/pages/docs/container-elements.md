@@ -23,7 +23,7 @@ seo:
     - name: 'twitter:title'
       value: Typography
     - name: 'twitter:description'
-      value: This is the typography page
+      value: Основная информация о svg.js
 ---
 
 # Родительские элементы
