@@ -2,7 +2,7 @@
 title: Установка
 weight: 1
 seo:
-  title: Installation
+  title: Установка
   description: Это страница установки
   extra:
     - name: 'og:type'
