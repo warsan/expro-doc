@@ -11,7 +11,7 @@ sections:
     type: section_docs
     col_number: three
     title: Лозунг
-    subtitle: 'Плакат висел во всех '
+    subtitle: Плакат висел во всех це
   - section_id: cta
     type: section_cta
     title: Призыв к действию
