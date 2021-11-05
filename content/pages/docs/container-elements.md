@@ -13,7 +13,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Typography
+      value: Новая
       keyName: property
     - name: 'og:description'
       value: Основная информация о svg.js
