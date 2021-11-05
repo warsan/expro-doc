@@ -119,7 +119,7 @@ export default class DocsMenu extends React.Component {
             <nav id="docs-nav" className="docs-nav">
                 <div id="docs-nav-inside" className="docs-nav-inside sticky">
                     <button id="docs-nav-toggle" className="docs-nav-toggle" ref={this.docsMenuOpenRef} onClick={this.handleDocsMenuToggle.bind(this)}>
-                        Navigate Docs <span className="icon-angle-right" aria-hidden="true" />
+                        Навигация по документам <span className="icon-angle-right" aria-hidden="true" />
                     </button>
                     <div className="docs-nav-menu">
                         <ul id="docs-menu" className="docs-menu">
