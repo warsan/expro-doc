@@ -10,7 +10,7 @@ excerpt: >-
   extra: []
 layout: docs
 seo:
-  title: ''
+  title: 'Новая страница'
   description: ''
   robots: []
   extra: []
