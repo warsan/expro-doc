@@ -19,7 +19,7 @@ seo:
     - name: 'twitter:title'
       value: Overview
     - name: 'twitter:description'
-      value: This is the overview page
+      value: Это страница обзора
 layout: docs
 excerpt: вот
 ---
