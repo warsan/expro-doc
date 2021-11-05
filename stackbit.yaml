@@ -200,7 +200,8 @@ models:
           - action_menu
         label: Seo
       - name: ''
-        type: string
+        type: url
+        label: ''
     labelField: title
   advanced:
     type: page
