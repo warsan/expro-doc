@@ -9,7 +9,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Overview
+      value: Обзор
       keyName: property
     - name: 'og:description'
       value: Это страница обзора
