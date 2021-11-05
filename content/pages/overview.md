@@ -11,7 +11,7 @@ sections:
     type: section_docs
     col_number: three
     title: Лозунг
-    subtitle: Плак
+    subtitle: Плакат висе
   - section_id: cta
     type: section_cta
     title: Призыв к действию
