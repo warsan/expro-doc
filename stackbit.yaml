@@ -424,7 +424,7 @@ models:
     labelField: title
   section_docs:
     type: object
-    label: Раздел "Обзор документации
+    label: Обзор документации
     fields:
       - type: string
         name: title
