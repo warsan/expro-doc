@@ -17,7 +17,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Overview
+      value: Обзор
     - name: 'twitter:description'
       value: Это страница обзора
 layout: docs
