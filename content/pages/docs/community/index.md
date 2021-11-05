@@ -5,7 +5,7 @@ excerpt: >-
   как подключиться.
 seo:
   title: Где получить поддержку
-  description: This is the community page
+  description: Это страница сообщества
   extra:
     - name: 'og:type'
       value: website
