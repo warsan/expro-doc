@@ -151,7 +151,7 @@ models:
     fields:
       - type: string
         name: root_docs_path
-        label: Корневой путь URL документации
+        label: Путь URL корневой документации
         description: >-
           Путь URL, по которому будут генерироваться страницы документации.
           Например, значение "/" будет размещать все страницы документации в
@@ -197,8 +197,10 @@ models:
       - type: model
         name: seo
         models:
-          - action_menu
+          - stackbit_page_meta
         label: Seo
+      - name: ''
+        type: string
     labelField: title
   advanced:
     type: page
@@ -424,7 +426,7 @@ models:
     labelField: title
   section_docs:
     type: object
-    label: Обзор документации
+    label: Раздел "Обзор документации
     fields:
       - type: string
         name: title
@@ -454,7 +456,6 @@ models:
         const: section_docs
         hidden: true
     labelField: title
-    description: Раздел документов
   section_grid:
     type: object
     label: Секция сетки
