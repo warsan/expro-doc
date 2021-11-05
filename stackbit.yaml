@@ -454,6 +454,7 @@ models:
         const: section_docs
         hidden: true
     labelField: title
+    description: Раздел документов
   section_grid:
     type: object
     label: Секция сетки
