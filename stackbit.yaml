@@ -201,7 +201,7 @@ models:
         label: Seo
       - name: link
         type: url
-        label: ''
+        label: Ссылочка
     labelField: title
   advanced:
     type: page
