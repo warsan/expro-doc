@@ -29,7 +29,7 @@ seo:
       value: Overview
       keyName: property
     - name: 'og:description'
-      value: This is the overview page
+      value: Это страница обзора
       keyName: property
     - name: 'og:image'
       value: images/5.jpg
