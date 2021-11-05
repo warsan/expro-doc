@@ -16,7 +16,7 @@ seo:
       value: Typography
       keyName: property
     - name: 'og:description'
-      value: основную информацию о svg.js
+      value: Основную информацию о svg.js
       keyName: property
     - name: 'twitter:card'
       value: summary
