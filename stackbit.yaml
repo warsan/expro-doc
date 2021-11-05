@@ -199,7 +199,7 @@ models:
         models:
           - action_menu
         label: Seo
-      - name: ''
+      - name: link
         type: url
         label: ''
     labelField: title
