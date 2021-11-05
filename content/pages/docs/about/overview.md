@@ -2,7 +2,7 @@
 title: Обзор сайта
 weight: 1
 seo:
-  title: Overview
+  title: Обзор
   description: Это страница обзора
   extra:
     - name: 'og:type'
