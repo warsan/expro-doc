@@ -21,7 +21,6 @@ seo:
     - name: 'twitter:description'
       value: Это страница обзора
 layout: docs
-excerpt: вот
 ---
 <div class="note">
   <strong>Примечание переводчика:</strong> 
