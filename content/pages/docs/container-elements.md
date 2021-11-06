@@ -1,15 +1,11 @@
 ---
 title: Новая страница
-excerpt: >-
-  В этом разделе вы найдёте основную информацию о svg.js и о том, как его использовать
 seo:
-label: Новая
   title: Новая страница
   description: В этом разделе вы найдёте основную информацию о svg.js и о том, как его
-  использовать
-  robots: []
+  использовать.
   extra: 
-      - name: 'og:type'
+    - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'

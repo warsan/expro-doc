@@ -210,8 +210,8 @@ models:
     fields:
       - type: string
         name: title
-        label: Название
-        description: Название страницы.
+        label: Шапка
+        description: Шапка страницы.
         required: true
       - type: list
         name: sections

@@ -1,9 +1,9 @@
 import _ from 'lodash';
 
 /**
- * Get all the pages located under the provided `urlPath`, not including the
- * index page. I.e.: All pages having their URLs start with `urlPath` excluding
- * the page having its URL equal to `urlPath`.
+ * Получить все страницы, расположенные по указанному `urlPath`, не включая индексную страницу.
+ * Т.е: Все страницы, URL которых начинается с `urlPath`, исключая страницу, 
+ * URL которой равен `urlPath`.
  *
  * @example
  * pages => [
@@ -14,15 +14,14 @@ import _ from 'lodash';
  *   {'__metadata.urlPath': '/posts/world'}
  * ]
  *
- * getPages(pages, /posts')
- * => [
+ * getPages(pages, /posts') => [
  *   {'__metadata.urlPath': '/posts/hello'},
  *   {'__metadata.urlPath': '/posts/world'}
  * ]
  *
  *
- * @param {Array} pages Array of page objects. All pages must have '__metadata.urlPath' field.
- * @param {string} urlPath The url path to filter pages by
+ * @param {Array} pages Массив объектов страниц. Все страницы должны иметь поле '__metadata.urlPath'.
+ * @param {string} urlPath url-путь для фильтрации страниц по
  * @return {Array}
  */
 export default function getPages(pages, urlPath) {
