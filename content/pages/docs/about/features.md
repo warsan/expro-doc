@@ -2,7 +2,7 @@
 title: Характеристики
 weight: 2
 seo:
-  title: Features
+  title: Характеристики
   description: Это страница характеристик
   extra:
     - name: 'og:type'
