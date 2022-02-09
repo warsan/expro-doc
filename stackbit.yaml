@@ -173,7 +173,6 @@ models:
     urlPath: /docs/{slug}
     label: Страницы документации
     layout: docs
-    folder: docs
     fields:
       - type: string
         name: title
@@ -204,7 +203,10 @@ models:
         label: ''
       - name: ''
         type: string
+        label: ''
     labelField: title
+    singleInstance: true
+    file: ''
   advanced:
     type: page
     label: Расширенная страница
