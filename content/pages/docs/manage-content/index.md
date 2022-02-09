@@ -21,7 +21,7 @@ seo:
     - name: 'twitter:title'
       value: Manage Content
     - name: 'twitter:description'
-      value: This is the manage content page
+      value: Это страница управления содержимым
 layout: docs
 ---
 
