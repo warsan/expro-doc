@@ -28,7 +28,7 @@ seo:
     - name: 'twitter:title'
       value: Обзор сообществ
     - name: 'twitter:description'
-      value: Commodo ante vis placerat interdum massa massa primis
+      value: Бла-бла-бла
     - name: 'twitter:image'
       value: images/2.jpg
       relativeUrl: true
