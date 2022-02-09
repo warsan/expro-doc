@@ -122,11 +122,11 @@ models:
       - type: string
         name: content
         label: Footer Content
-        description: The copyright text displayed in the footer
+        description: Текст авторского права, отображаемый в нижнем колонтитуле
       - type: list
         name: links
         label: Links
-        description: List of links in the footer
+        description: Список ссылок в нижнем колонтитуле
         items:
           type: model
           models:
@@ -134,12 +134,12 @@ models:
       - type: boolean
         name: has_social
         label: Enable Social Links
-        description: Display social links in the footer
+        description: Отображение социальных ссылок в нижнем колонтитуле
         default: true
       - type: list
         name: social_links
         label: Social Links
-        description: List of social links in the footer
+        description: Список социальных ссылок в нижнем колонтитуле
         items:
           type: model
           models:
@@ -286,7 +286,7 @@ models:
       - type: image
         name: image
         label: Background Image
-        description: The image shown in the background of the page header
+        description: Фоновое изображение заголовка страницы
       - type: model
         name: seo
         models:
@@ -316,15 +316,15 @@ models:
       - type: image
         name: thumb_image
         label: Image (blog feed)
-        description: The image shown in the blog feed
+        description: Изображение, показанное в ленте блога
       - type: string
         name: thumb_image_alt
         label: Image alt text (blog feed)
-        description: The alt text of the blog feed image
+        description: alt-текст изображения в ленте блога
       - type: image
         name: image
         label: Background Image (single post)
-        description: The image shown in the background of the single post header
+        description: Фоновое изображение заголовка отдельного поста
       - type: string
         name: excerpt
         label: Отрывок
@@ -405,7 +405,7 @@ models:
       - type: string
         name: section_id
         label: Section ID
-        description: A unique identifier of the section, must not contain whitespace
+        description: Уникальный идентификатор раздела, не должен содержать пробелы
       - type: string
         name: subtitle
         label: Субтитр
@@ -420,7 +420,7 @@ models:
       - type: string
         name: type
         label: Object Type
-        description: The type of the object
+        description: Тип объекта
         const: section_cta
         hidden: true
     labelField: title
