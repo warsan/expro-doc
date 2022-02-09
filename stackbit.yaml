@@ -201,6 +201,8 @@ models:
         label: Seo
       - name: ''
         type: string
+        label: ''
+        required: true
     labelField: title
   advanced:
     type: page
