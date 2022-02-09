@@ -28,7 +28,7 @@ layout: docs
        <span onclick="showClick('ссылка')">
        <a href="#" onclick="return false" onblur="hideClick()" onmouseover="show('ссылка')" onmouseout="hide()">ссылка</a></span>.  
    При наведении на неё курсора мышки появится всплывающая подсказка. При клике левой кнопкой мышки на ней либо появится ещё одна всплывающая подсказка, либо будет сделан переход в другое место данной справки или на какое-нибудь место в сети Интернет.  
-Проект перевода на  <a href="https://github.com/customizer/svg.js-ru">github.com</a>.
+Проект перевода на  <a href="https://github.com/customizer/svg.js-ru" target="_blank">github.com</a>.
 </div>
 
 <hr>
@@ -112,6 +112,7 @@ SVG.on(document, 'DOMContentLoaded', function() {
 ## Чистый SVG
 
 SVG.js также работает вне HTML DOM, внутри документа SVG, например:
+
 ```js
 <?xml version="1.0" encoding="utf-8" ?>
 <svg id="drawing" xmlns="http://www.w3.org/2000/svg" 
@@ -147,11 +148,10 @@ var obj = SVG(node)
 
 ## Песочница
 
-Вот базовая настройка. Присутствует все, чтобы начать возиться.
+Вот базовая настройка. Присутствует всё, чтобы начать возиться.
 
 <div>
 <script async src="//jsfiddle.net/Fuzzy/nc15b2tg/embed/js,result/"></script>
 </div>
-
 
 <hr>

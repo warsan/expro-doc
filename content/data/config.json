@@ -15,7 +15,7 @@
                 "has_subnav": false
             },
             {
-                "label": "Docs",
+                "label": "Документация",
                 "url": "/docs",
                 "style": "link",
                 "has_subnav": true,
