@@ -12,7 +12,7 @@ seo:
       value: Features
       keyName: property
     - name: 'og:description'
-      value: This is the features page
+      value: Это страница характеристик
       keyName: property
     - name: 'twitter:card'
       value: summary
