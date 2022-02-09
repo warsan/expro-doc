@@ -205,8 +205,6 @@ models:
         type: string
         label: ''
     labelField: title
-    singleInstance: true
-    file: ''
   advanced:
     type: page
     label: Расширенная страница
