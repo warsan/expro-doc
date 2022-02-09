@@ -149,7 +149,7 @@ var obj = SVG(node)
 
 Вот базовая настройка. Присутствует всё, чтобы начать возиться.
 
-//<div>
+// <div>
 <script async src="//jsfiddle.net/Fuzzy/nc15b2tg/embed/js,result/"></script>
 </div>
 
