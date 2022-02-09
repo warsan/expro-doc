@@ -5,7 +5,7 @@ excerpt: >-
   и многое другое.
 seo:
   title: Manage Content
-  description: This is the manage content page
+  description: Это страница управления содержимым
   extra:
     - name: 'og:type'
       value: website
