@@ -200,9 +200,6 @@ models:
       - name: ''
         type: string
         label: ''
-      - name: ''
-        type: string
-        label: ''
     labelField: title
   advanced:
     type: page
