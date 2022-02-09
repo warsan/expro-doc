@@ -8,7 +8,7 @@ date: '2019-05-27'
 image: images/2.jpg
 seo:
   title: Обзор сообществ
-  description: Commodo ante vis placerat interdum massa massa primis
+  description: <kf-,k
   extra:
     - name: 'og:type'
       value: article
