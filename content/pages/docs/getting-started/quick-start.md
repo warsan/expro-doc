@@ -12,7 +12,7 @@ seo:
       value: Quick Start
       keyName: property
     - name: 'og:description'
-      value: This is the quick start page
+      value: Это страница быстрого запуска
       keyName: property
     - name: 'twitter:card'
       value: summary
