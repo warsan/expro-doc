@@ -26,7 +26,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Community Round-up
+      value: Обзор сообществ
     - name: 'twitter:description'
       value: Commodo ante vis placerat interdum massa massa primis
     - name: 'twitter:image'
