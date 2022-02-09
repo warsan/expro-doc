@@ -201,6 +201,7 @@ models:
       - name: ''
         type: string
         label: ''
+        hidden: true
       - name: ''
         type: string
         label: ''
