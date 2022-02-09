@@ -202,7 +202,6 @@ models:
       - name: ''
         type: string
         label: ''
-        required: true
     labelField: title
   advanced:
     type: page
