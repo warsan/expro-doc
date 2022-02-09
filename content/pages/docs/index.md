@@ -45,7 +45,7 @@ SVG.js экономный
 SVG.js легковесен. Цифры не лгут, вот он в сравнении с конкурентами:  
 <div>
 <script async src="//jsfiddle.net/warsand/a9qrsj3w/embed/result/"></script>
-
+</div>
 <div class="note">
 <strong>Примечание:</strong>
 
