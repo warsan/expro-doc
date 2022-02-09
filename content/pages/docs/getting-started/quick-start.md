@@ -3,7 +3,7 @@ title: Быстрый старт
 weight: 2
 seo:
   title: Quick Start
-  description: This is the quick start page
+  description: Это страница быстрого запуска
   extra:
     - name: 'og:type'
       value: website
