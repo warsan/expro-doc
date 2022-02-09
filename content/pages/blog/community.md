@@ -8,7 +8,7 @@ date: '2019-05-27'
 image: images/2.jpg
 seo:
   title: Обзор сообществ
-  description: Бла-бла
+  description: Бла-бла-
   extra:
     - name: 'og:type'
       value: article
