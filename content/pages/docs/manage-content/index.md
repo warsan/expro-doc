@@ -14,7 +14,7 @@ seo:
       value: Manage Content
       keyName: property
     - name: 'og:description'
-      value: This is the manage content page
+      value: Это страница управления содержимым
       keyName: property
     - name: 'twitter:card'
       value: summary
