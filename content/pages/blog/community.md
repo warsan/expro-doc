@@ -17,7 +17,7 @@ seo:
       value: Обзор сообществ
       keyName: property
     - name: 'og:description'
-      value: Commodo ante vis placerat interdum massa massa primis
+      value: Бла-бла-бла
       keyName: property
     - name: 'og:image'
       value: images/2.jpg
