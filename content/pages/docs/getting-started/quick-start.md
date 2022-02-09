@@ -19,7 +19,7 @@ seo:
     - name: 'twitter:title'
       value: Quick Start
     - name: 'twitter:description'
-      value: This is the quick start page
+      value: Это страница быстрого запуска
 layout: docs
 ---
 
