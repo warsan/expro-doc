@@ -19,7 +19,7 @@ seo:
     - name: 'twitter:title'
       value: Features
     - name: 'twitter:description'
-      value: This is the features page
+      value: Это страница характеристик
 layout: docs
 ---
 
