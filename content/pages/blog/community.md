@@ -14,7 +14,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Community Round-up
+      value: Обзор сообществ
       keyName: property
     - name: 'og:description'
       value: Commodo ante vis placerat interdum massa massa primis
