@@ -7,7 +7,7 @@ excerpt: >-
 date: '2019-05-27'
 image: images/2.jpg
 seo:
-  title: Community Round-up
+  title: Обзор сообществ
   description: Commodo ante vis placerat interdum massa massa primis
   extra:
     - name: 'og:type'
