@@ -4,7 +4,7 @@ weight: 0
 excerpt: Описание скрипта
 seo:
   label: Об svg
-  url: 'docs/ob-s'
+  url: 'docs/ob-sv'
   style: link
   icon_class: dev
   new_window: true
