@@ -4,7 +4,7 @@ weight: 0
 excerpt: Описание скрипта
 seo:
   label: Об svg
-  url: 'do'
+  url: 'doc'
   style: link
   icon_class: dev
   new_window: true
