@@ -7,7 +7,7 @@ seo:
   url: '#'
   style: link
   icon_class: dev
-  new_window: tr
+  new_window: tru
   no_follow: false
   has_subnav: false
   subnav_links: []
