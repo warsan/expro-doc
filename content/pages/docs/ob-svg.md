@@ -1,7 +1,7 @@
 ---
 title: Об svg
 weight: 0
-excerpt: lorem-ipsum
+excerpt: О
 seo:
   label: lorem-ipsum
   url: '#'
