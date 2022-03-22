@@ -3,7 +3,7 @@ title: Об svg
 weight: 0
 excerpt: Описание скрипта
 seo:
-  label: lorem-ipsum
+  label: Об svg
   url: '#'
   style: link
   icon_class: dev
