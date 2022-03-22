@@ -1,5 +1,5 @@
 ---
-title: О
+title: Об 
 weight: 0
 excerpt: lorem-ipsum
 seo:
