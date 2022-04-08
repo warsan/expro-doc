@@ -3,7 +3,7 @@ title: Быстрый старт
 weight: 2
 seo:
   title: Quick Start
-  description: This is the quick start page
+  description: Это страница быстрого запуска
   extra:
     - name: 'og:type'
       value: website
@@ -12,14 +12,14 @@ seo:
       value: Quick Start
       keyName: property
     - name: 'og:description'
-      value: This is the quick start page
+      value: Это страница быстрого запуска
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
       value: Quick Start
     - name: 'twitter:description'
-      value: This is the quick start page
+      value: Это страница быстрого запуска
 layout: docs
 ---
 

@@ -1,23 +1,23 @@
 ---
 title: Обзор сообществ
 excerpt: >-
-  Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
+  Бла-бла-бла. Commodo ante vis placerat interdum massa
   massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
   placerat lorem turpis at.
 date: '2019-05-27'
 image: images/2.jpg
 seo:
-  title: Community Round-up
-  description: Commodo ante vis placerat interdum massa massa primis
+  title: Обзор сообществ
+  description: Бла-бла-бла
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Community Round-up
+      value: Обзор сообществ
       keyName: property
     - name: 'og:description'
-      value: Commodo ante vis placerat interdum massa massa primis
+      value: Бла-бла-бла
       keyName: property
     - name: 'og:image'
       value: images/2.jpg
@@ -26,9 +26,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Community Round-up
+      value: Обзор сообществ
     - name: 'twitter:description'
-      value: Commodo ante vis placerat interdum massa massa primis
+      value: Бла-бла-бла
     - name: 'twitter:image'
       value: images/2.jpg
       relativeUrl: true

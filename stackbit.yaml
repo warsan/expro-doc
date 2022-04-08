@@ -173,7 +173,6 @@ models:
     urlPath: /docs/{slug}
     label: Страницы документации
     layout: docs
-    folder: docs
     fields:
       - type: string
         name: title
@@ -181,7 +180,6 @@ models:
         description: >-
           Заголовок страницы, используемый как в качестве заголовка страницы,
           так и в качестве заголовка навигационного меню
-        required: true
       - type: number
         name: weight
         label: Вес
@@ -199,8 +197,6 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
-      - name: ''
-        type: string
     labelField: title
   advanced:
     type: page

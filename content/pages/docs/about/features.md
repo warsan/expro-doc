@@ -2,8 +2,8 @@
 title: Характеристики
 weight: 2
 seo:
-  title: Features
-  description: This is the features page
+  title: Характеристики
+  description: Это страница характеристик
   extra:
     - name: 'og:type'
       value: website
@@ -12,14 +12,14 @@ seo:
       value: Features
       keyName: property
     - name: 'og:description'
-      value: This is the features page
+      value: Это страница характеристик
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
       value: Features
     - name: 'twitter:description'
-      value: This is the features page
+      value: Это страница характеристик
 layout: docs
 ---
 

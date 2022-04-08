@@ -4,8 +4,8 @@ excerpt: >-
   В этом разделе вы узнаете, как добавить подсветку синтаксиса, примеры, выноски
   и многое другое.
 seo:
-  title: Manage Content
-  description: This is the manage content page
+  title: Управление контентом
+  description: Это страница управления содержимым
   extra:
     - name: 'og:type'
       value: website
@@ -14,19 +14,19 @@ seo:
       value: Manage Content
       keyName: property
     - name: 'og:description'
-      value: This is the manage content page
+      value: Это страница управления содержимым
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
       value: Manage Content
     - name: 'twitter:description'
-      value: This is the manage content page
+      value: Это страница управления содержимым
 layout: docs
 ---
 
 <div class="note">
-  <strong>Примечание:</strong> Это демо-контент только для демонстрации. Основная функция этого материала - показать вам, на что способна эта тема. Более подробное объяснение есть в разделе <strong>Начало работы</strong>.
+  <strong>Примечание:</strong> Этот демо-контент только для демонстрации. Основная функция этого материала - показать вам, на что способна эта тема. Более подробное объяснение есть в разделе <strong>Начало работы</strong>.
 </div>
 
 ## Блоки кода

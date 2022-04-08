@@ -1,19 +1,20 @@
 ---
-title: lorem-ipsum
+title: Об svg
 weight: 0
-excerpt: lorem-ipsum
+excerpt: Описание скрипта
 seo:
-  label: lorem-ipsum
-  url: '#'
+  label: Об svg
+  url: 'docs/ob-svg.md'
   style: link
   icon_class: dev
-  new_window: false
+  new_window: true
   no_follow: false
   has_subnav: false
   subnav_links: []
 layout: docs
 ---
-## Lorem ipsum
+
+## Об svg
 
 Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
