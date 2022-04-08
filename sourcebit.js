@@ -44,7 +44,7 @@ module.exports = {
                 commonProps: {
                     pages: { predicate: _.matchesProperty('__metadata.modelType', 'page') },
                     posts: { predicate: _.matchesProperty('__metadata.modelName', 'post') },
-                    // docs: { predicate: _.matchesProperty('__metadata.modelName', 'docs') },
+                    docs: { predicate: _.matchesProperty('__metadata.modelName', 'docs') },
                     data: { single: true, predicate: _.matchesProperty('__metadata.id', 'sourcebit-source-filesystem:data') }
                 }
             }
